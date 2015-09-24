@@ -2,7 +2,7 @@ var app = angular.module('trumpApp', []);
 app.controller('trumpController',['$scope', '$http',function($scope,$http){
   $scope.getResponse = function() {
     var word = $('input[name=user_input]').val();
-      $http.get('http://localhost:8080/api/v0/?q='+word)
+      $http.get('http://whatwouldtrumpsay.elasticbeanstalk.com/api/v0/?q='+word)
         .then( function(response) { $scope.response = response.data; });
         $scope.started = true;
    };
@@ -31,7 +31,7 @@ app.directive('trump', function($http) {
                         }
 
                         scope.getQuestion = function(word) {
-                                $http.get('http://localhost:8080/v0/?q='+word)
+                                $http.get('http://whatwouldtrumpsay.elasticbeanstalk.com/v0/?q='+word)
                                      .then(
                                          function(response) {
                                                  scope.set(response.data);

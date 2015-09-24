@@ -1,4 +1,3 @@
-import pandas as pd
 import re
 import numpy as np
 from bs4 import BeautifulSoup
@@ -6,7 +5,7 @@ import cPickle as pickle
 
 import nltk
 
-tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+tokenizer = nltk.data.load('file:english.pickle')
 
 def text_to_sentences(text):
     # text is a list of tweets etc 
@@ -236,125 +235,3 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     s[0].upper() + s[1:]
 
     return s
-
-'''
-if __name__ == '__main__': 
-
-    # Loading data and cleaning:
-
-
-    # First set of tweets:
-    train = pd.read_csv('asciiTrumpTweets.txt', delimiter='|', error_bad_lines=False, header = 0)
-    train.columns = ['id','date', 'tweet']
-    tweet_list = text_to_sentences(train['tweet'])
-    tweet_list = pd.Series(tweet_list)
-
-    sentences = []
-    for i, tweet in enumerate(tweet_list):
-	sentences += tweet_to_sentences(tweet, tokenizer)
-
-
-    #Second set of tweets:
-    with open('tweets_sep20') as f:
-    	sep20_tweets = f.readlines()
-
-    tmp = []
-    for s in sep20_tweets:
-	tmp.append( s.decode('utf-8', 'ignore'))
-
-    more_tweets = text_to_sentences(tmp)
-
-    for i, tweet in enumerate(more_tweets):
-	sentences += tweet_to_sentences(tweet, tokenizer)
-
-
-    # Complete tweets (obtained from scraping twitLonger)
-    with open('complete_tweets.txt') as f:
- 	complete_tweets = f.readlines()
-
-    comp_tweets = text_to_sentences(complete_tweets)
-
-    for i, tweet in enumerate(comp_tweets):
-        if (i+1)%1000 == 0:
-            print i+1
-        sentences += tweet_to_sentences(tweet, tokenizer)  
-
-	
-    # Speeches and 'Positions' 
-
-
-    with open('Speeches/alabama_speech.txt') as f:
-        al_speech = f.readlines()
-	    
-    with open('Speeches/nashville_tennessee_Aug29.txt') as f:
-        nashville_speech = f.readlines()
-	    
-    with open('Speeches/Texas_mexico_border_July23.txt') as f:
-        texas_speech = f.readlines()
-
-    with open('Speeches/new_york_sep_3.txt') as f:
-        ny_speech = f.readlines()
-	    
-    with open('Speeches/phoenix_arizona_july_11.txt') as f:
-        az_speech = f.readlines()
-	    
-    with open('Speeches/presidential_bid.txt') as f:
-        presi_speech = f.readlines()
-	    
-    with open('Speeches/south_carolina_speech.txt') as f:
-        sc_speech = f.readlines()
-
-    with open('positions') as f:
-        positions = f.readlines()
-    
-
-    lines = []
-    for s in al_speech:
-        lines.append( s.decode('utf-8', 'ignore'))
-
-    for s in nashville_speech:
-        lines.append( s.decode('utf-8', 'ignore'))
-
-    for s in ny_speech:
-        lines.append( s.decode('utf-8', 'ignore'))
-
-    for s in az_speech:
-        lines.append( s.decode('utf-8', 'ignore'))
-
-    for s in presi_speech:
-        lines.append( s.decode('utf-8', 'ignore'))
-
-    for s in sc_speech:
-        lines.append( s.decode('utf-8', 'ignore'))
-	    
-    for s in texas_speech:
-        lines.append( s.decode('utf-8', 'ignore'))
-
-    for s in positions:
-        lines.append( s.decode('utf-8', 'ignore'))
-
-    speech_text = text_to_sentences(lines)
-
-    for i, tweet in enumerate(speech_text):
-	sentences += tweet_to_sentences(tweet, tokenizer)
-
-
-    #Make dictionaries:
-
-    donald_dict = make_dictionary(sentences)
-
-    reversed_sentences = []
-    for sentence in sentences:
-        sentence = [word for word in reversed(sentence)]
-        reversed_sentences.append(sentence)
-	    
-    rev_donald_dict = make_dictionary(reversed_sentences)  
-
-
-    with open('f_dict.pkl', 'wb') as f:
-        pickle.dump(donald_dict, f)
-
-    with open('r_dict.pkl', 'wb') as f:
-        pickle.dump(rev_donald_dict, f)
-
-'''
