@@ -13,50 +13,56 @@ def text_to_sentences(text):
     
     sen_list = []
     for line in text:
-        if line[0] != '@' and not line.startswith('RT') and not line.startswith('Via') and not line.startswith('"') :
+        if line[0] != '@' and not line.startswith('.@') and not line.startswith('RT') \
+                          and not line.startswith('Via') and not line.startswith('"') :
+        #if not line.startswith('RT') and not line.startswith('Via') and not line.startswith('"') :
+            if len(line.split()) != 0 :
+                lastword = line.split()[-1]
+                if not lastword.startswith('http:'):
 
-            line = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', line)
+                    line = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', line)
 
-            line = re.sub('U.S.', 'UScont', line)
-            line = re.sub('U.S.A.', 'UScont', line)
+                    line = re.sub('U.S.', 'UScont', line)
+                    line = re.sub('U.S.A.', 'UScont', line)
 
-            line = re.sub('Saudi Arabia', 'saudi', line)
-            line = re.sub('saudi arabia', 'saudi', line)
-            line = re.sub('China', 'china', line)
-            line = re.sub('Iran', 'iran', line)
-            line = re.sub('Israel', 'israel', line)
-            line = re.sub('Scotland', 'scotland', line)
+                    line = re.sub('Saudi Arabia', 'saudi', line)
+                    line = re.sub('saudi arabia', 'saudi', line)
+                    line = re.sub('China', 'china', line)
+                    line = re.sub('Iran', 'iran', line)
+                    line = re.sub('Israel', 'israel', line)
+                    line = re.sub('Scotland', 'scotland', line)
+                    line = re.sub('India', 'india', line)
 
-            line = re.sub('&amp;', 'and', line)
-            line = re.sub('#', '', line)
-            line = re.sub('.@', ' ', line)
-            line = re.sub('@', ' ', line)
-            line = re.sub('"', '', line)
+                    line = re.sub('&amp;', 'and', line)
+                    line = re.sub('#', '', line)
+                    line = re.sub('.@', ' ', line)
+                    line = re.sub('@', ' ', line)
+                    line = re.sub('"', '', line)
 
-            line = re.sub('\.', ' . ', line)
-            line = re.sub('\?', ' ? ', line)
-            line = re.sub('!', ' ! ', line)
-            line = re.sub('\(', ' ( ', line)
-            line = re.sub('\)', ' ) ', line)
-            line = re.sub(':', ' : ', line)
-            line = re.sub(';', ' ; ', line)
-            line = line.encode("ascii", "ignore")
+                    line = re.sub('\.', ' . ', line)
+                    line = re.sub('\?', ' ? ', line)
+                    line = re.sub('!', ' ! ', line)
+                    line = re.sub('\(', ' ( ', line)
+                    line = re.sub('\)', ' ) ', line)
+                    line = re.sub(':', ' : ', line)
+                    line = re.sub(';', ' ; ', line)
+                    line = line.encode("ascii", "ignore")
 
-            line = re.sub('BarackObama', 'Barack Obama', line)
-            line = re.sub('HillaryClinton', 'Hillary Clinton', line)
-            line = re.sub('[Hh]illary [Cc]linton', 'Hillary Clinton', line)
-            line = re.sub('MittRomney', 'Mitt Romney', line)
-            line = re.sub('PaulRyan', 'Paul Ryan', line)
-            line = re.sub('JebBush', 'Jeb Bush', line)
-            line = re.sub('AlexSalmond', 'Alex Salmond', line)
+                    line = re.sub('BarackObama', 'Barack Obama', line)
+                    line = re.sub('HillaryClinton', 'Hillary Clinton', line)
+                    line = re.sub('[Hh]illary [Cc]linton', 'Hillary Clinton', line)
+                    line = re.sub('MittRomney', 'Mitt Romney', line)
+                    line = re.sub('PaulRyan', 'Paul Ryan', line)
+                    line = re.sub('JebBush', 'Jeb Bush', line)
+                    line = re.sub('AlexSalmond', 'Alex Salmond', line)
  
-            if " Donald Trump" or "Trump :" not in line:
-                if '( cont )' not in line:
-                    if 'Watch my' or 'watch my' not in line:
-                        if ('My' or 'my') and 'interview' not in line:
-                            if 'tonight' or 'Tonight' not in line: 
-                                if 'via' or 'Via' not in line: 
-                                    sen_list.append(line.strip())
+                    if " Donald Trump" or "Trump :" or "realDonaldTrump" not in line:
+                        if '( cont )' not in line:
+                            if 'Watch my' or 'watch my' not in line:
+                                if ('My' or 'my') and 'interview' not in line:
+                                    if 'tonight' or 'Tonight' not in line: 
+                                        if 'via' or 'Via' not in line: 
+                                            sen_list.append(line.strip())
 
     return sen_list
 
@@ -207,21 +213,27 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     s = re.sub('saudi', 'Saudi Arabia', s)
     s = re.sub('china', 'China', s)
     s = re.sub('iran', 'Iran', s)
+    s = re.sub('india', 'India', s)
     s = re.sub('israel', 'Israel', s)
     s = re.sub('scotland', 'Scotland', s)
 
     s = re.sub('\( ', ' (', s)
     s = re.sub('  \)', ')', s)
     s = re.sub(' \)', ')', s)
+    s = re.sub(' ; ', ';', s)
+    s = re.sub(' : ', ':', s)
+    s = re.sub(' , ', ', ', s)
 
     punc_set = ['?','!']
     if s[-1] not in punc_set:
         s = s + '.'
     else:
         if s[-1] == '?':
-            s = re.sub(' \?', '\?', s)
+            s = re.sub(' \?', '?', s)
         elif s[-1] == '!':
             s = re.sub(' !', '!', s)
+
+    s[0].upper() + s[1:]
 
     return s
 
