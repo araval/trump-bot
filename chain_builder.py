@@ -1,3 +1,4 @@
+import pandas as pd
 import re
 import numpy as np
 from bs4 import BeautifulSoup
@@ -5,7 +6,7 @@ import cPickle as pickle
 
 import nltk
 
-tokenizer = nltk.data.load('file:english.pickle')
+tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 def text_to_sentences(text):
     # text is a list of tweets etc 
@@ -20,7 +21,7 @@ def text_to_sentences(text):
                 if not lastword.startswith('http:'):
 
                     line = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', line)
-
+                    '''
                     line = re.sub('U.S.', 'UScont', line)
                     line = re.sub('U.S.A.', 'UScont', line)
 
@@ -55,6 +56,8 @@ def text_to_sentences(text):
                     line = re.sub('JebBush', 'Jeb Bush', line)
                     line = re.sub('AlexSalmond', 'Alex Salmond', line)
  
+                    '''
+
                     if " Donald Trump" or "Trump :" or "realDonaldTrump" not in line:
                         if '( cont )' not in line:
                             if 'Watch my' or 'watch my' not in line:
@@ -232,6 +235,9 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
         elif s[-1] == '!':
             s = re.sub(' !', '!', s)
 
-    s[0].upper() + s[1:]
+    if s[0] == ",":
+        s = s[2:]
+
+    s = s[0].upper() + s[1:]
 
     return s
