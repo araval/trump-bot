@@ -1,4 +1,3 @@
-import pandas as pd
 import re
 import numpy as np
 from bs4 import BeautifulSoup
@@ -6,7 +5,7 @@ import cPickle as pickle
 
 import nltk
 
-tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+tokenizer = nltk.data.load('file:english.pickle')
 
 def text_to_sentences(text):
     # text is a list of tweets etc 
@@ -21,42 +20,6 @@ def text_to_sentences(text):
                 if not lastword.startswith('http:'):
 
                     line = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', line)
-                    '''
-                    line = re.sub('U.S.', 'UScont', line)
-                    line = re.sub('U.S.A.', 'UScont', line)
-
-                    line = re.sub('Saudi Arabia', 'saudi', line)
-                    line = re.sub('saudi arabia', 'saudi', line)
-                    line = re.sub('China', 'china', line)
-                    line = re.sub('Iran', 'iran', line)
-                    line = re.sub('Israel', 'israel', line)
-                    line = re.sub('Scotland', 'scotland', line)
-                    line = re.sub('India', 'india', line)
-
-                    line = re.sub('&amp;', 'and', line)
-                    line = re.sub('#', '', line)
-                    line = re.sub('.@', ' ', line)
-                    line = re.sub('@', ' ', line)
-                    line = re.sub('"', '', line)
-
-                    line = re.sub('\.', ' . ', line)
-                    line = re.sub('\?', ' ? ', line)
-                    line = re.sub('!', ' ! ', line)
-                    line = re.sub('\(', ' ( ', line)
-                    line = re.sub('\)', ' ) ', line)
-                    line = re.sub(':', ' : ', line)
-                    line = re.sub(';', ' ; ', line)
-                    line = line.encode("ascii", "ignore")
-
-                    line = re.sub('BarackObama', 'Barack Obama', line)
-                    line = re.sub('HillaryClinton', 'Hillary Clinton', line)
-                    line = re.sub('[Hh]illary [Cc]linton', 'Hillary Clinton', line)
-                    line = re.sub('MittRomney', 'Mitt Romney', line)
-                    line = re.sub('PaulRyan', 'Paul Ryan', line)
-                    line = re.sub('JebBush', 'Jeb Bush', line)
-                    line = re.sub('AlexSalmond', 'Alex Salmond', line)
- 
-                    '''
 
                     if " Donald Trump" or "Trump :" or "realDonaldTrump" not in line:
                         if '( cont )' not in line:
