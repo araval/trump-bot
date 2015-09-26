@@ -191,10 +191,32 @@ more_words.append("You're a lightweight. I refuse to tell you my thoughts unless
 
 
 def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
-    
-    if len(word.split()) > 1:
-	s = more_words[ np.random.randint(0, len(more_words) ) ] 
-	return s
+  
+    print word
+    word = re.sub('\?', '', word)
+    word = re.sub('\.', '', word)
+    word = re.sub(',', '', word)
+    word = re.sub('!', '', word)
+    print word
+
+    pp = word.split()
+    if len(pp) > 1:
+        priority_list = ['hair', 'obama', 'hillary', 'jeb', 'china', 'mexico', 'wall', 'immigration', 'climate', 'ugly']
+        for tmp in pp:
+            if tmp in priority_list:
+                word = tmp
+                break
+            else:
+                if len(pp) > 1:
+                    possible_key = []
+                    for tmp in pp:
+                        for key, value in dictionary.iteritems():
+                            if tmp.lower() == key[1].lower():
+                                possible_key.append(key)
+
+                if len(possible_key) > 0:
+                    word = possible_key[np.random.randint( 0, len(possible_key) )][1]
+
 
 
     following_words, rev_key = get_two_words_3(word, dictionary, randomness = 1) 
