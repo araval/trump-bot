@@ -2,8 +2,8 @@ import re
 import numpy as np
 from bs4 import BeautifulSoup
 import cPickle as pickle
-
 import nltk
+from nltk.corpus import stopwords
 
 tokenizer = nltk.data.load('file:english.pickle')
 
@@ -145,14 +145,6 @@ key_not_found_list.append("What?! I don't care about ")
 key_not_found_list.append("If I wanted to talk about it, I would. But I don't have time to think about ")
 key_not_found_list.append("You're such a lightweight, asking me about ")
 
-more_words = []
-more_words.append("I ask for one word, and you input two?! You're fired!")
-more_words.append("You aren't very bright, are you? Go back and enter one word.")
-more_words.append("You're such a lightweight. Go back and enter one word, so I can speak my mind.")
-more_words.append("Look, I'm very smart. I am asking you to input a word, don't try more than that.")
-more_words.append("You're a lightweight. I refuse to tell you my thoughts unless you enter a single word.")
-
-
 def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
   
     word = re.sub('\?', '', word)
@@ -161,23 +153,32 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     word = re.sub('!', '', word)
 
     pp = word.split()
+
+    word = word.lower()
+    content = [w for w in pp if w not in stopwords.words('english')]
+    if len(content) > 0:
+        pp = content
+
     if len(pp) > 1:
-        priority_list = ['hair', 'obama', 'hillary', 'jeb', 'china', 'mexico', 'wall', 'immigration', 'climate', 'ugly']
+        priority_list = ['hair', 'obama', 'hillary', 'jeb', 'bush', 'war', 'china', 'mexico', 'iran', 'iraq', 'wall',\
+                         'immigration', 'climate', 'ugly', 'tax', 'taxes', 'obamacare', 'president',\
+                         'golf', 'israel', 'job', 'jobs', 'russia', 'germany', 'india', 'canada', 'snowden'\
+                         'like', 'think', 'egypt', 'africa', 'oil', 'energy', 'solar', 'wind', 'air', 'gas', 'peace']
+        found_key = False
         for tmp in pp:
-            if tmp in priority_list:
+            if tmp.lower() in priority_list:
                 word = tmp
+                found_key = True
                 break
-            else:
-                if len(pp) > 1:
-                    possible_key = []
-                    for tmp in pp:
-                        for key, value in dictionary.iteritems():
-                            if tmp.lower() == key[1].lower():
-                                possible_key.append(key)
+        if not found_key:
+            possible_key = []
+            for tmp in pp:
+                for key, value in dictionary.iteritems():
+                    if tmp.lower() == key[1].lower():
+                        possible_key.append(key)
 
-                if len(possible_key) > 0:
-                    word = possible_key[np.random.randint( 0, len(possible_key) )][1]
-
+            if len(possible_key) > 0:
+                word = possible_key[np.random.randint( 0, len(possible_key) )][1]
 
 
     following_words, rev_key = get_two_words_3(word, dictionary, randomness = 1) 
@@ -194,8 +195,12 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     s = s.strip()
 
     s = re.sub('@', "", s)
-    s = re.sub('UScont', "U.S.", s)
-    s = re.sub('saudi', 'Saudi Arabia', s)
+
+    usToken = '7516fd43adaa5e0b8a65a672c39845d2'
+    saudiArabiaToken = 'b835b521c29f399c78124c4b59341691'
+
+    s = re.sub(usToken, 'U.S.', s)
+    s = re.sub(saudiArabiaToken, 'Saudi Arabia', s)
     s = re.sub('china', 'China', s)
     s = re.sub('iran', 'Iran', s)
     s = re.sub('india', 'India', s)
@@ -208,6 +213,11 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     s = re.sub(' ; ', ';', s)
     s = re.sub(' : ', ':', s)
     s = re.sub(' , ', ', ', s)
+
+
+
+
+
 
     punc_set = ['?','!']
     if s[-1] not in punc_set:
