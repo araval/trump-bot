@@ -3,9 +3,10 @@ import numpy as np
 from bs4 import BeautifulSoup
 import cPickle as pickle
 import nltk
-from nltk.corpus import stopwords
 
 tokenizer = nltk.data.load('file:english.pickle')
+with open("stopwords.pkl", "rb") as f:
+    stopwords = pickle.load(f)
 
 def text_to_sentences(text):
     # text is a list of tweets etc 
@@ -155,7 +156,7 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     pp = word.split()
 
     word = word.lower()
-    content = [w for w in pp if w not in stopwords.words('english')]
+    content = [w for w in pp if w not in stopwords]
     if len(content) > 0:
         pp = content
 
@@ -213,10 +214,6 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     s = re.sub(' ; ', ';', s)
     s = re.sub(' : ', ':', s)
     s = re.sub(' , ', ', ', s)
-
-
-
-
 
 
     punc_set = ['?','!']
