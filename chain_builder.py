@@ -192,12 +192,10 @@ more_words.append("You're a lightweight. I refuse to tell you my thoughts unless
 
 def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
   
-    print word
     word = re.sub('\?', '', word)
     word = re.sub('\.', '', word)
     word = re.sub(',', '', word)
     word = re.sub('!', '', word)
-    print word
 
     pp = word.split()
     if len(pp) > 1:
