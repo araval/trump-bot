@@ -1,21 +1,28 @@
 <div class="center-block" ng-controller="trumpController">
-    <form class="form-inline center">
-      <div class="row">
-          <div class="col-md-3" ></div>
-          <div class="col-md-6 center-block">
-            <div class="input-group">
-                <input type="text" name="user_input" class="form-control"  ng-model="user_input" onsubmit="getResponse($('input[name=user_input]').val());"/>
-                <div class="input-group-addon">
-                    <i class="fa fa-question" ng-click="getResponse($('input[name=user_input]').val());" ></i>
+    <div class="row">
+        <div class="col-md-3" ></div>
+        <div class="col-md-6 center-block">
+            <form class="form-inline center">
+                <div class="input-group" style="width:100%">
+                    <input type="text" name="user_input" class="form-control"  ng-model="user_input" onsubmit="getResponse($('input[name=user_input]').val());"/>
+                    <div class="input-group-addon">
+                        <i class="fa fa-question" ng-click="getResponse($('input[name=user_input]').val());" ></i>
+                    </div>
+                    <button type="submit" style="display:none;" value = "Ask" ng-click="getResponse($('input[name=user_input]').val());">Ask</button>
                 </div>
-                <button type="submit" style="display:none;" value = "Ask" ng-click="getResponse($('input[name=user_input]').val());">Ask</button>
-            </div>
-          </div>
-          <div class="col-md-3" ></div>
-      </div>
-    </form>
-<div class="row" style="height:2vh;" />
-  <div class="response row text-center" ng-show="started">
-    {{response}}
-  </div>
+            </form>
+        </div>
+        <div class="col-md-3" ></div>
+    </div>
+    
+    <div class="row" style="height:2vh;" />
+
+    <div class="row" >
+        <!--<div class="col-md-3" ></div> -->
+        <div class="response text-center" ng-show="started">
+            {{response}}
+        </div>
+        <!--<div class="col-md-3" ></div> -->
+    </div>
+
 </div>

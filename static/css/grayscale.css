@@ -313,6 +313,8 @@ a:focus {
 }
 
 .response {
+  margin: 20px;
+  padding: 20px;
   background-color: #4E6C87;
   padding-top: 7px;
   opacity: 60%;
