@@ -22,6 +22,13 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
+
+        <script src="static/js/jquery.easing.min.js"></script>
+        <script> 
+            $(function(){
+                $("#counterInclude").load("counter"); 
+            });
+        </script> 
     </head>
     <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
         <div class="container trump-face" style="height:100vh; width:100vw;">
@@ -47,12 +54,13 @@
         </div>
         <footer>
             <div class="container text-center">
-                <p class="copyright"> &copy; A. Raval 2015<br />
+                <div id="counterInclude"></div>
+                <br />
+                <div class="copyright"> &copy; A. Raval 2015<br />
                     Header image courtesy of <a href="://commons.wikimedia.org/wiki/File:Donald_Trump_Laconia_Rally,_Laconia,_NH_4_by_Michael_Vadon_July_16_2015_02.jpg">Michael Vadon</a>
-                </p>
+                </div>
             </div>
         </footer>
         <!-- Plugin JavaScript -->
-        <script src="static/js/jquery.easing.min.js"></script>
     </body>
 </html>

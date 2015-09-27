@@ -162,9 +162,9 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
 
     if len(pp) > 1:
         priority_list = ['hair', 'obama', 'hillary', 'jeb', 'bush', 'war', 'china', 'mexico', 'iran', 'iraq', 'wall',\
-                         'immigration', 'climate', 'ugly', 'tax', 'taxes', 'obamacare', 'president',\
-                         'golf', 'israel', 'job', 'jobs', 'russia', 'germany', 'india', 'canada', 'snowden'\
-                         'like', 'think', 'egypt', 'africa', 'oil', 'energy', 'solar', 'wind', 'air', 'gas', 'peace']
+                         'immigration', 'climate', 'ugly', 'tax', 'taxes', 'obamacare', 'president', 'putin', 'palin',\
+                         'golf', 'israel', 'job', 'jobs', 'russia', 'germany', 'india', 'canada', 'snowden', 'romney',\
+                         'think', 'egypt', 'africa', 'oil', 'energy', 'solar', 'wind', 'air', 'gas', 'peace', 'like']
         found_key = False
         for tmp in pp:
             if tmp.lower() in priority_list:
