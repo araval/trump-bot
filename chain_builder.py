@@ -153,18 +153,18 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     word = re.sub(',', '', word)
     word = re.sub('!', '', word)
 
+    word = word.lower()
     pp = word.split()
 
-    word = word.lower()
     content = [w for w in pp if w not in stopwords]
     if len(content) > 0:
         pp = content
 
-    if len(pp) > 1:
+    if len(pp) > 0:
         priority_list = ['hair', 'obama', 'hillary', 'jeb', 'bush', 'war', 'china', 'mexico', 'iran', 'iraq', 'wall',\
                          'immigration', 'climate', 'ugly', 'tax', 'taxes', 'obamacare', 'president', 'putin', 'palin',\
                          'golf', 'israel', 'job', 'jobs', 'russia', 'germany', 'india', 'canada', 'snowden', 'romney',\
-                         'think', 'egypt', 'africa', 'oil', 'energy', 'solar', 'wind', 'air', 'gas', 'peace', 'like']
+                         'think', 'egypt', 'africa', 'oil', 'energy', 'solar', 'wind', 'air', 'gas', 'peace']
         found_key = False
         for tmp in pp:
             if tmp.lower() in priority_list:
