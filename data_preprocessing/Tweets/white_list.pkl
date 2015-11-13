@@ -1,0 +1,5262 @@
+(dp1
+S'@jaketapper'
+p2
+VJake Tapper
+p3
+sS'@nbcinvestigates'
+p4
+VNBC Investigations
+p5
+sS'@nbcblacklist'
+p6
+VThe Blacklist
+p7
+sS'@sethmacfarlane'
+p8
+VSeth MacFarlane
+p9
+sS'@cyndilauper'
+p10
+VCyndi Lauper
+p11
+sS'@realbencarson'
+p12
+VDr. Ben Carson
+p13
+sS'@darknightrises'
+p14
+VDark Knight Rises
+p15
+sS'@theherd'
+p16
+VHerd w/Colin Cowherd
+p17
+sS'@deptvetaffairs'
+p18
+VVeterans Affairs
+p19
+sS'@tripleh'
+p20
+VTriple H
+p21
+sS'@nygiants'
+p22
+S'New York Giants'
+p23
+sS'@mckaycoppins'
+p24
+VMcKay Coppins
+p25
+sS'@nymag'
+p26
+VNew York Magazine
+p27
+sS'@kateplusmy8'
+p28
+VKate Gosselin
+p29
+sS'@joelosteen'
+p30
+VJoel Osteen
+p31
+sS'@rob_bieber'
+p32
+VRob Bieber \u24cb 
+p33
+sS'@apprenticenbc'
+p34
+VThe Apprentice
+p35
+sS'@kevinolearytv'
+p36
+VKevin O'Leary
+p37
+sS'@amazon'
+p38
+VAmazon
+p39
+sS'@trishstratuscom'
+p40
+VTrish Stratus
+p41
+sS'@shaneodonoghue'
+p42
+VShane O'Donoghue
+p43
+sS'@d_seaman'
+p44
+VD.G. Seaman
+p45
+sS'@kenpettigrew'
+p46
+VKen Pettigrew
+p47
+sS'@mcuban'
+p48
+VMark Cuban
+p49
+sS'@realmeatloaf'
+p50
+VMeat Loaf
+p51
+sS'@davidagoodman'
+p52
+VDavid Goodman
+p53
+sS'@bretbaier'
+p54
+VBret Baier
+p55
+sS'@mikeandmike'
+p56
+VMike & Mike
+p57
+sS'@tuckercarlson'
+p58
+VTucker Carlson
+p59
+sS'@claytonmorris'
+p60
+VClayton Morris
+p61
+sS'@david_cameron'
+p62
+VDavid Cameron
+p63
+sS'@jennaleeusa'
+p64
+VJenna Lee
+p65
+sS'@conedison'
+p66
+VCon Edison
+p67
+sS'@spurs'
+p68
+VSan Antonio Spurs
+p69
+sS'@stevedeaceshow'
+p70
+VSteve Deace
+p71
+sS'@bostonherald'
+p72
+VBoston Herald
+p73
+sS'@govmikehuckabee'
+p74
+VGov. Mike Huckabee
+p75
+sS'@carlosbeltran15'
+p76
+VCarlos Beltran
+p77
+sS'@joyvbehar'
+p78
+VJoy Behar
+p79
+sS'@tarankillam'
+p80
+Vtaran killam
+p81
+sS'@bettyblopper1'
+p82
+VBetty Blopper
+p83
+sS'@ronsirak'
+p84
+VRon Sirak
+p85
+sS'@briellezolciak'
+p86
+VBrielle Biermann
+p87
+sS'@jfsargent'
+p88
+VThe Surge
+p89
+sS'@mailonline'
+p90
+VDaily Mail Online
+p91
+sS'@bradwyman'
+p92
+VBrad Wyman
+p93
+sS'@timothyrosinski'
+p94
+VTimmy Rosinski
+p95
+sS'@walidshoebat'
+p96
+VWalid Shoebat
+p97
+sS'@jtfoxx'
+p98
+VJT Foxx
+p99
+sS'@biggovt'
+p100
+VBig Government
+p101
+sS'@bonjovi'
+p102
+VBon Jovi
+p103
+sS'@michelebachmann'
+p104
+VMichele Bachmann
+p105
+sS'@richlowry'
+p106
+VRich Lowry
+p107
+sS'@oprah'
+p108
+VOprah Winfrey
+p109
+sS'@ayrracecourse'
+p110
+VAyr Racecourse
+p111
+sS'@flgovscott'
+p112
+VRick Scott
+p113
+sS'@paula_deen'
+p114
+VPaula Deen
+p115
+sS'@theapprentice'
+p116
+S'The Apprentice'
+p117
+sS'@rahmemanuel'
+p118
+VRahm Emanuel
+p119
+sS'@concordnhpatch'
+p120
+VConcord NH Patch
+p121
+sS'@janinegibson'
+p122
+VJanine Gibson
+p123
+sS'@yossigestetner'
+p124
+VYossi Gestetner
+p125
+sS'@trumpnationalny'
+p126
+VTrump National
+p127
+sS'@saramurray'
+p128
+VSara Murray
+p129
+sS'@aubreyoday'
+p130
+VAubrey O'Day
+p131
+sS'@abcfamily'
+p132
+VABC Family
+p133
+sS'@shawngarrett'
+p134
+VShawn Garrett
+p135
+sS'@broncos'
+p136
+VDenver Broncos
+p137
+sS'@michaelcohen212'
+p138
+VMichael Cohen
+p139
+sS'@fallontonight'
+p140
+VFallon Tonight
+p141
+sS'@mariabartiromo'
+p142
+VMaria Bartiromo
+p143
+sS'@ibdinvestors'
+p144
+VInvestors.com
+p145
+sS'@bradheat'
+p146
+VBrad
+p147
+sS'@pursuitist'
+p148
+VPursuitist Luxury
+p149
+sS'@washcaps'
+p150
+VWashington Capitals
+p151
+sS'@gop'
+p152
+VRNC
+p153
+sS'@charleshurt'
+p154
+VCharlie Hurt
+p155
+sS'@foxsports'
+p156
+VFOX Sports
+p157
+sS'@dwstweets'
+p158
+VD Wasserman Schultz
+p159
+sS'@bashirlive'
+p160
+VMartin Bashir
+p161
+sS'@conroecourier'
+p162
+VConroe Courier
+p163
+sS'@jonkarl'
+p164
+VJonathan Karl
+p165
+sS'@tombrokaw'
+p166
+VTom Brokaw
+p167
+sS'@wheresjose'
+p168
+VJose Feliciano
+p169
+sS'@johnboehner'
+p170
+VJohn Boehner
+p171
+sS'@redstate'
+p172
+VRedState
+p173
+sS'@teslamotors'
+p174
+VTesla Motors
+p175
+sS'@mickelsonhat'
+p176
+VKPMG Mickelson
+p177
+sS'@marketwatch'
+p178
+VMarketWatch
+p179
+sS'@eonline'
+p180
+VE! Online
+p181
+sS'@_trump4potus'
+p182
+VDonald Trump 4 POTUS
+p183
+sS'@globeandmail'
+p184
+VThe Globe and Mail
+p185
+sS'@markhalperin'
+p186
+VMark Halperin
+p187
+sS'@richardroeper'
+p188
+VRichard Roeper
+p189
+sS'@savannahguthrie'
+p190
+VSavannah Guthrie
+p191
+sS'@nflcommish'
+p192
+VRoger Goodell
+p193
+sS'@realromadowney'
+p194
+VRoma Downey
+p195
+sS'@paulteutulsr'
+p196
+VPaul Teutul Sr
+p197
+sS'@irishcentral'
+p198
+VIrishCentral
+p199
+sS'@artngonzalez'
+p200
+VArturo N. Gonzalez
+p201
+sS'@serenawilliams'
+p202
+VSerena Williams
+p203
+sS'@shannonbream'
+p204
+VShannon Bream
+p205
+sS'@vanityfair'
+p206
+VVANITY FAIR
+p207
+sS'@reince'
+p208
+VReince Priebus
+p209
+sS'@nfl'
+p210
+VNFL
+p211
+sS'@shaq'
+p212
+VSHAQ
+p213
+sS'@ashleyrparker'
+p214
+VAshley Parker
+p215
+sS'@yankees'
+p216
+VNew York Yankees
+p217
+sS'@s'
+p218
+VScience Burger
+p219
+sS'@abraham'
+p220
+VAbraham Williams
+p221
+sS'@tpinsidr'
+p222
+VThePoliticalInsider
+p223
+sS'@t'
+p224
+VTantek Çelik
+p225
+sS'@jaysekulow'
+p226
+VJay Sekulow
+p227
+sS'@newtgingrich'
+p228
+VNewt Gingrich
+p229
+sS'@stac'
+p230
+Vstac
+p231
+sS'@georgewillf'
+p232
+S'George F Will'
+p233
+sS'@chrischristie'
+p234
+VChris Christie
+p235
+sS'@potus'
+p236
+VPresident Obama
+p237
+sS'@genemarks'
+p238
+VGene Marks
+p239
+sS'@johnlegere'
+p240
+VJohn Legere
+p241
+sS'@politico'
+p242
+VPOLITICO
+p243
+sS'@pzfeed'
+p244
+VPzFeed Top News
+p245
+sS'@eugene_robinson'
+p246
+VEugene Robinson
+p247
+sS'@nauticusnorfolk'
+p248
+VNauticusNorfolk
+p249
+sS'@texasgop'
+p250
+VTexas GOP
+p251
+sS'@katrinacampins'
+p252
+VKATRINA CAMPINS
+p253
+sS'@foxnewssunday'
+p254
+VFoxNewsSunday
+p255
+sS'@bobkurlander'
+p256
+VBob Kurlander
+p257
+sS'@emilymiller'
+p258
+VEmily Miller
+p259
+sS'@sherrieshepherd'
+p260
+VSherri Shepherd
+p261
+sS'@redsox'
+p262
+VBoston Red Sox
+p263
+sS'@wisdomsquote'
+p264
+VMindsetDev
+p265
+sS'@penn_state'
+p266
+VPenn State
+p267
+sS'@dannyzuker'
+p268
+VDanny Zuker
+p269
+sS'@sheriffclarke'
+p270
+VDavid A. Clarke, Jr.
+p271
+sS'@realclearnews'
+p272
+VRealClearPolitics
+p273
+sS'@law360'
+p274
+VLaw360
+p275
+sS'@brittmchenry'
+p276
+VBritt McHenry
+p277
+sS'@bluemangroup'
+p278
+VBlue Man Group
+p279
+sS'@ford'
+p280
+VFord Motor Company
+p281
+sS'@austinwalsh'
+p282
+VaWall
+p283
+sS'@erikaunapuu'
+p284
+VErik
+p285
+sS'@luckyguyplay'
+p286
+VLucky Guy Play
+p287
+sS'@jonhuntsman'
+p288
+VJon Huntsman
+p289
+sS'@trumpnewmedia'
+p290
+VTrump New Media
+p291
+sS'@aberdeencc'
+p292
+VAbdn City Council
+p293
+sS'@abfalecbaldwin'
+p294
+VABFoundation
+p295
+sS'@teresa_giudice'
+p296
+VTeresa Giudice
+p297
+sS'@msnbc'
+p298
+VMSNBC
+p299
+sS'@miawesbrooks'
+p300
+V#MiaShow #OnYourSide
+p301
+sS'@tuckahoetommy'
+p302
+Vthomas doherty
+p303
+sS'@wildatlanticway'
+p304
+VWild Atlantic Way
+p305
+sS'@hadas_gold'
+p306
+VHadas Gold
+p307
+sS'@bubbawatson'
+p308
+Vbubba watson
+p309
+sS'@bloombergtv'
+p310
+VBloomberg TV
+p311
+sS'@tripadvisor'
+p312
+VTripAdvisor
+p313
+sS'@salon'
+p314
+VSalon.com
+p315
+sS'@ellevarner'
+p316
+VElle Veezy
+p317
+sS'@drudge_report'
+p318
+VDRUDGE REPORT
+p319
+sS'@slate'
+p320
+VSlate
+p321
+sS'@gregkellyfox5'
+p322
+Vgreg kelly
+p323
+sS'@tracegallagher'
+p324
+VTrace Gallagher
+p325
+sS'@governorpataki'
+p326
+VGeorge E. Pataki
+p327
+sS'@redcross'
+p328
+VAmerican Red Cross
+p329
+sS'@warrenbuffett'
+p330
+S'Warren Buffett'
+p331
+sS'@mrmikecalta'
+p332
+VMike Calta
+p333
+sS'@grahamclark'
+p334
+Vgrahamclark
+p335
+sS'@thetodayshow'
+p336
+VThe Today Show
+p337
+sS'@reason'
+p338
+Vreason
+p339
+sS'@jasondhorowitz'
+p340
+VJason Horowitz
+p341
+sS'@bobontcn'
+p342
+VBreakfast On Broad
+p343
+sS'@imsocelebrity'
+p344
+VImsocelebrity
+p345
+sS'@vincemcmahon'
+p346
+VVince McMahon
+p347
+sS'@aclj'
+p348
+VACLJ
+p349
+sS'@joesquawk'
+p350
+VJoe Kernen
+p351
+sS'@thegarybusey'
+p352
+VGary Busey
+p353
+sS'@nytpolitics'
+p354
+VNYT Politics
+p355
+sS'@madisongesiotto'
+p356
+VMadison Gesiotto
+p357
+sS'@tiffanyatrump'
+p358
+VTiffany Trump
+p359
+sS'@donlemon'
+p360
+VDon Lemon
+p361
+sS'@amit'
+p362
+VAmit Jotwani
+p363
+sS'@johnrich'
+p364
+VJohn Rich
+p365
+sS'@scotthallnwo'
+p366
+VScott Hall
+p367
+sS'@priscocbs'
+p368
+VPete Prisco
+p369
+sS'@guardian'
+p370
+VThe Guardian 
+p371
+sS'@anncurry'
+p372
+VAnn Curry
+p373
+sS'@bernardmcguirk'
+p374
+VBernard McGuirk
+p375
+sS'@joshgundle'
+p376
+VJosh Gundle
+p377
+sS'@timcarman'
+p378
+VTim Carman
+p379
+sS'@lukedonald'
+p380
+VLuke Donald
+p381
+sS'@johnmccain'
+p382
+VJohn McCain
+p383
+sS'@marthastewart'
+p384
+VMartha Stewart
+p385
+sS'@johnhawkinsrwn'
+p386
+VJohn Hawkins
+p387
+sS'@michelleobama'
+p388
+VMichelle Obama
+p389
+sS'@marthamaccallum'
+p390
+Vmartha maccallum
+p391
+sS'@adriannamarie'
+p392
+VAdrianna Marie
+p393
+sS'@dritadavanzo'
+p394
+VDrita Davanzo 
+p395
+sS'@datelinenbc'
+p396
+VDateline NBC
+p397
+sS'@stephmcmahon'
+p398
+VStephanie McMahon
+p399
+sS'@nicolledwallace'
+p400
+VNicolle Wallace
+p401
+sS'@petsalivewest'
+p402
+VPets Alive West
+p403
+sS'@meetthepress'
+p404
+VMeet the Press
+p405
+sS'@nytimesworld'
+p406
+VNew York Times World
+p407
+sS'@garethbale22'
+p408
+VGareth Bale
+p409
+sS'@macmiller'
+p410
+VMac
+p411
+sS'@kimkardashian'
+p412
+VKim Kardashian West
+p413
+sS'@twitternyc'
+p414
+VTwitter NYC
+p415
+sS'@kingsthings'
+p416
+VLarry King
+p417
+sS'@georgewill'
+p418
+VGeorge F. Will
+p419
+sS'@chrisruddynmx'
+p420
+VChristopher Ruddy
+p421
+sS'@seanhannity'
+p422
+VSean Hannity
+p423
+sS'@hamptonsmag'
+p424
+VHamptons Magazine
+p425
+sS'@wwe'
+p426
+VWWE
+p427
+sS'@cnntonight'
+p428
+VCNN Tonight
+p429
+sS'@naghmehabedini'
+p430
+VNaghmeh Abedini
+p431
+sS'@frankluntz'
+p432
+VFrank Luntz
+p433
+sS'@christianpost'
+p434
+VThe Christian Post
+p435
+sS'@kcrg'
+p436
+VKCRG
+p437
+sS'@tbn'
+p438
+VTBN
+p439
+sS'@neilyoung'
+p440
+VNeil Young 
+p441
+sS'@princeetornam'
+p442
+VPrince Etornam
+p443
+sS'@ehasselbeck'
+p444
+Velisabeth hasselbeck
+p445
+sS'@jtimberlake'
+p446
+VJustin Timberlake
+p447
+sS'@mcilroyrory'
+p448
+VRory Mcilroy
+p449
+sS'@cbsnews'
+p450
+VCBS News
+p451
+sS'@heatherchilders'
+p452
+VHeather Childers
+p453
+sS'@katiecouric'
+p454
+VKatie Couric
+p455
+sS'@dallasmavs'
+p456
+VDallas Mavericks
+p457
+sS'@gatewaypundit'
+p458
+VJim Hoft
+p459
+sS'@thrillistchi'
+p460
+VThrillist Chicago
+p461
+sS'@stevecrisafulli'
+p462
+VSteve Crisafulli
+p463
+sS'@timtebow'
+p464
+VTim Tebow
+p465
+sS'@arod'
+p466
+VAlex Rodriguez
+p467
+sS'@espngolf'
+p468
+VESPN Golf
+p469
+sS'@webbsimpson1'
+p470
+VWebb Simpson
+p471
+sS'@speakerboehner'
+p472
+VSpeaker John Boehner
+p473
+sS'@breitbartnews'
+p474
+VBreitbart News
+p475
+sS'@justiceroberts'
+p476
+VJohn
+p477
+sS'@goingoutguide'
+p478
+VGoing Out Guide
+p479
+sS'@johndickerson'
+p480
+VJohn Dickerson
+p481
+sS'@medvedevrussiae'
+p482
+VDmitry Medvedev
+p483
+sS'@bachelorfortune'
+p484
+VBachelor Fortune
+p485
+sS'@israel'
+p486
+VIsrael \u05d9\u05e9\u05e8\u05d0\u05dc
+p487
+sS'@traceadkins'
+p488
+VTraceAdkins
+p489
+sS'@catoinstitute'
+p490
+VCato Institute
+p491
+sS'@presstv'
+p492
+VPress TV
+p493
+sS'@marc_soler1'
+p494
+VMarc Soler
+p495
+sS'@apinv'
+p496
+VArnold Palmer Inv.
+p497
+sS'@01101o10'
+p498
+V+i (26T) Tsg-ea2s
+p499
+sS'@oceandrivemag'
+p500
+VOcean Drive Magazine
+p501
+sS'@scottfconroy'
+p502
+VScott Conroy
+p503
+sS'@thedailybeast'
+p504
+VThe Daily Beast
+p505
+sS'@jumpman23'
+p506
+VJordan
+p507
+sS'@curtismuddog'
+p508
+VVote Trump 2016
+p509
+sS'@rushlimbaugh'
+p510
+S'Rush Limbaugh'
+p511
+sS'@louferrigno'
+p512
+VLou Ferrigno
+p513
+sS'@richardbranson'
+p514
+VRichard Branson
+p515
+sS'@erictrumpfdn'
+p516
+VThe Eric Trump Fdn
+p517
+sS'@jebbush'
+p518
+VJeb Bush
+p519
+sS'@republicbuzz'
+p520
+VRepublic Buzz
+p521
+sS'@mey'
+p522
+Vmelani anjar saputri
+p523
+sS'@derekjeter'
+p524
+S'Derek Jeter'
+p525
+sS'@nbcnewyork'
+p526
+VNBC New York
+p527
+sS'@natalie_gulbis'
+p528
+VNatalie Gulbis
+p529
+sS'@govwalker'
+p530
+VGovernor Walker
+p531
+sS'@officialmelb'
+p532
+VMelanie Brown
+p533
+sS'@simonschuster'
+p534
+VSimon & Schuster
+p535
+sS'@robbreport'
+p536
+VRobb Report
+p537
+sS'@johncena'
+p538
+VJohn Cena
+p539
+sS'@conniemackiv'
+p540
+VConnie Mack
+p541
+sS'@faithandfreedom'
+p542
+VFaith & Freedom
+p543
+sS'@anhqdc'
+p544
+VAmerica's News HQ
+p545
+sS'@mediaite'
+p546
+VMediaite
+p547
+sS'@sportstalkcsn'
+p548
+VSportsTalk Live
+p549
+sS'@thenyrangers'
+p550
+VNY Rangers - Old
+p551
+sS'@unionleader'
+p552
+VUnionLeader.com
+p553
+sS'@mlauer'
+p554
+VMatt Lauer
+p555
+sS'@rosie'
+p556
+VRosie
+p557
+sS'@kimrichards11'
+p558
+VKim Richards
+p559
+sS'@redeyefnc'
+p560
+VRed Eye on Fox News
+p561
+sS'@lisalampanelli'
+p562
+VLisa Lampanelli
+p563
+sS'@ignatiuspress'
+p564
+VIgnatius Press
+p565
+sS'@jimmykimmel'
+p566
+VJimmy Kimmel
+p567
+sS'@aj3fla'
+p568
+VAJ Johnson
+p569
+sS'@fox8news'
+p570
+Vfox8news
+p571
+sS'@andreatantaros'
+p572
+VAndrea Tantaros
+p573
+sS'@danyellaangel'
+p574
+VDanyella Angel
+p575
+sS'@dratzenberger'
+p576
+VJohn Ratzenberger
+p577
+sS'@d_raww16'
+p578
+V\u26a1\ufe0fSlim Reaper\u26a1\ufe0f
+p579
+sS'@sahilkapur'
+p580
+VSahil Kapur
+p581
+sS'@deneenborelli'
+p582
+VDeneen Borelli
+p583
+sS'@charlesgkoch'
+p584
+VCharles G Koch
+p585
+sS'@pierscomments'
+p586
+VRight Wing Comments
+p587
+sS'@entrepreneur'
+p588
+VEntrepreneur
+p589
+sS'@sonofgodmovie'
+p590
+VSon of God
+p591
+sS'@therealkiyosaki'
+p592
+VRobert T. Kiyosaki
+p593
+sS'@lexiflake'
+p594
+Vlexi
+p595
+sS'@politicalwire'
+p596
+VTaegan Goddard
+p597
+sS'@barbarajwalters'
+p598
+VBarbara Walters
+p599
+sS'@foxnewspolitics'
+p600
+VFox News Politics
+p601
+sS'@squawkcnbc'
+p602
+VSquawk Box
+p603
+sS'@missusa'
+p604
+VOlivia Jordan
+p605
+sS'@jaseduckman'
+p606
+VJase Robertson
+p607
+sS'@theview'
+p608
+VThe View
+p609
+sS'@toddakin'
+p610
+VTodd Akin
+p611
+sS'@joemontana'
+p612
+VJoseph Montana
+p613
+sS'@tan123'
+p614
+VTom Nelson
+p615
+sS'@followlolo'
+p616
+VLolo Jones
+p617
+sS'@stevekingia'
+p618
+VSteve King
+p619
+sS'@trumpferrypoint'
+p620
+VTrump Golf Links
+p621
+sS'@chrislhayes'
+p622
+VChristopher Hayes
+p623
+sS'@jaysuch'
+p624
+VJay Such
+p625
+sS'@parademagazine'
+p626
+VParade Magazine
+p627
+sS'@nyjets'
+p628
+VNew York Jets
+p629
+sS'@urplepingo'
+p630
+VUrple Pingo
+p631
+sS'@cakebossbuddy'
+p632
+VBuddy Valastro
+p633
+sS'@nashvillebiz'
+p634
+VNashvilleBizJournal
+p635
+sS'@ibtimes'
+p636
+VIntl. Business Times
+p637
+sS'@chicagotribune'
+p638
+VChicago Tribune
+p639
+sS'@lukemckinney'
+p640
+VTHUNDERWORD 5
+p641
+sS'@jamesokeefeiii'
+p642
+VJames O'Keefe
+p643
+sS'@carmeloanthony'
+p644
+VCarmelo Anthony
+p645
+sS'@jimpethokoukis'
+p646
+VJames Pethokoukis
+p647
+sS'@jedediahbila'
+p648
+VJedediah Bila
+p649
+sS'@nbcnews'
+p650
+VNBC News
+p651
+sS'@fnthefive'
+p652
+VFNTheFive
+p653
+sS'@gzchef'
+p654
+VGeoffrey Zakarian
+p655
+sS'@realmissnvusa'
+p656
+VBrittany McGowan
+p657
+sS'@expedia'
+p658
+VExpedia
+p659
+sS'@newscorpse'
+p660
+VNews Corpse
+p661
+sS'@chucklane1'
+p662
+VCharles Lane
+p663
+sS'@mikerotondo86'
+p664
+VMR
+p665
+sS'@eyeongolf'
+p666
+VEye on Golf
+p667
+sS'@robertsliardon'
+p668
+VRoberts Liardon
+p669
+sS'@sethmeyers'
+p670
+VSeth Meyers
+p671
+sS'@charliemurphy'
+p672
+VCharlie Murphy
+p673
+sS'@pizzapartyben'
+p674
+VPPB INTL
+p675
+sS'@barackobama'
+p676
+VBarack Obama
+p677
+sS'@elonmusk'
+p678
+VElon Musk
+p679
+sS'@thetaintedt'
+p680
+VTHE TAINTED T
+p681
+sS'@sherrihill'
+p682
+VSherri Hill
+p683
+sS'@newyorktimes'
+p684
+S'New York Times'
+p685
+sS'@dennisrodman'
+p686
+VDennis Rodman
+p687
+sS'@billkristol'
+p688
+VBill Kristol
+p689
+sS'@thomasaroberts'
+p690
+VThomas Roberts
+p691
+sS'@georgeclooney'
+p692
+S'George Clooney'
+p693
+sS'@gqforbes'
+p694
+VGary Forbes
+p695
+sS'@evalongoria'
+p696
+VEva Longoria
+p697
+sS'@sandrasmithfox'
+p698
+VSandra Smith
+p699
+sS'@business'
+p700
+VBloomberg Business
+p701
+sS'@wsj'
+p702
+VWall Street Journal
+p703
+sS'@veuveclicquot'
+p704
+VVeuve Clicquot
+p705
+sS'@thegolfadvisor'
+p706
+VGolf Advisor
+p707
+sS'@katyturnbc'
+p708
+VKaty Tur
+p709
+sS'@gloriaallred'
+p710
+VGloria Allred
+p711
+sS'@wolfblitzer'
+p712
+VWolf Blitzer
+p713
+sS'@danabrams'
+p714
+VDan Abrams
+p715
+sS'@jmartnyt'
+p716
+VJonathan Martin
+p717
+sS'@realmichaelkay'
+p718
+VMichael Kay
+p719
+sS'@lifezette'
+p720
+V LifeZette
+p721
+sS'@duncanbannatyne'
+p722
+VDuncan Bannatyne
+p723
+sS'@franklin_graham'
+p724
+VFranklin Graham
+p725
+sS'@theellenshow'
+p726
+VEllen DeGeneres
+p727
+sS'@bettemidler'
+p728
+VBette Midler
+p729
+sS'@senmikelee'
+p730
+VMike Lee
+p731
+sS'@thesergiogarcia'
+p732
+VSergio Garcia
+p733
+sS'@arsenioofficial'
+p734
+VArsenio Hall
+p735
+sS'@williebosshog'
+p736
+VWillie Robertson
+p737
+sS'@mikephelps5'
+p738
+VMike Phelps
+p739
+sS'@realmikeshapiro'
+p740
+VMichael Shapiro
+p741
+sS'@justinrose99'
+p742
+VJustin Rose
+p743
+sS'@kevinhart4real'
+p744
+VKevin Hart
+p745
+sS'@mariamenounos'
+p746
+Vmaria menounos
+p747
+sS'@missteenusa'
+p748
+VKatherine Haik
+p749
+sS'@bravotv'
+p750
+VBravotv
+p751
+sS'@boonepickens'
+p752
+VT. Boone Pickens
+p753
+sS'@suzyserb'
+p754
+VSuzyserb
+p755
+sS'@golfmonthly'
+p756
+VGolf Monthly
+p757
+sS'@theblaze'
+p758
+VTheBlaze
+p759
+sS'@greece'
+p760
+Vgreece
+p761
+sS'@jordanspieth'
+p762
+VJordan Spieth
+p763
+sS'@thereval'
+p764
+VReverend Al Sharpton
+p765
+sS'@nyknicks'
+p766
+VNEW YORK KNICKS
+p767
+sS'@rubennavarrette'
+p768
+Vruben navarrette jr
+p769
+sS'@sacbee_news'
+p770
+VThe Sacramento Bee
+p771
+sS'@facethenation'
+p772
+VFace The Nation
+p773
+sS'@felix_clay'
+p774
+VFelix Clay
+p775
+sS'@johnkasich'
+p776
+VJohn Kasich
+p777
+sS'@linda_mcmahon'
+p778
+VLinda McMahon
+p779
+sS'@periscopeco'
+p780
+VPeriscope
+p781
+sS'@danlifting'
+p782
+Vmakeadifference
+p783
+sS'@trumpgolfla'
+p784
+VTrump National LA
+p785
+sS'@judgejeanine'
+p786
+VJeanine Pirro
+p787
+sS'@70sbaseball'
+p788
+V1970s Baseball
+p789
+sS'@billygraham'
+p790
+VBilly Graham
+p791
+sS'@jeffjlpa1'
+p792
+VJeff Lord
+p793
+sS'@huffingtonpost'
+p794
+VHuffington Post
+p795
+sS'@moniquehorsey'
+p796
+VMoniqué Horsey
+p797
+sS'@sia'
+p798
+Vsia
+p799
+sS'@bnbooks'
+p800
+VBarnes & Noble
+p801
+sS'@brandiglanville'
+p802
+VBrandi Glanville
+p803
+sS'@missuniverse'
+p804
+VPaulina Vega
+p805
+sS'@israelipm'
+p806
+VPM of Israel
+p807
+sS'@starjonesesq'
+p808
+VStar Jones
+p809
+sS'@omarosa'
+p810
+V\u2606OMAROSA\u2606
+p811
+sS'@johnberman'
+p812
+VJohn Berman
+p813
+sS'@rihanna'
+p814
+VRihanna
+p815
+sS'@timewarner'
+p816
+S'Time Warner'
+p817
+sS'@nygovcuomo'
+p818
+VAndrew Cuomo
+p819
+sS'@fishbowldc'
+p820
+VFishbowlDC
+p821
+sS'@newyorkobserver'
+p822
+VCodkawaamo
+p823
+sS'@repweiner'
+p824
+VAnthony Weiner
+p825
+sS'@jetranger69'
+p826
+VJetRanger
+p827
+sS'@anndromney'
+p828
+VAnn Romney
+p829
+sS'@usopen'
+p830
+VUS Open Tennis
+p831
+sS'@norahaxha'
+p832
+VNoraHaxha
+p833
+sS'@netanyahu'
+p834
+VBenjamin Netanyahu
+p835
+sS'@billlmaher'
+p836
+VBill Maher 
+p837
+sS'@annika59'
+p838
+VAnnika Sorenstam
+p839
+sS'@larry_kudlow'
+p840
+VLarry Kudlow
+p841
+sS'@realtormag'
+p842
+VREALTOR® Magazine
+p843
+sS'@senjohnmccain'
+p844
+VJohn McCain
+p845
+sS'@charlierose'
+p846
+VCharlie Rose
+p847
+sS'@joshduhamel'
+p848
+VJosh Duhamel
+p849
+sS'@breitbartvideo'
+p850
+VBreitbart.TV
+p851
+sS'@costareports'
+p852
+VRobert Costa
+p853
+sS'@youtube'
+p854
+VYouTube
+p855
+sS'@surveyusa'
+p856
+VSurveyUSA
+p857
+sS'@gwenstefani'
+p858
+VGwen Stefani
+p859
+sS'@financialtimes'
+p860
+VFinancial Times
+p861
+sS'@trumpsguccigirl'
+p862
+VGucciGirl
+p863
+sS'@merryman34'
+p864
+VDaron Merryman MD
+p865
+sS'@agschneiderman'
+p866
+VEric Schneiderman
+p867
+sS'@kathviner'
+p868
+VKatharine Viner
+p869
+sS'@governorperry'
+p870
+VRick Perry
+p871
+sS'@austan_goolsbee'
+p872
+VAustan Goolsbee
+p873
+sS'@boyscouts'
+p874
+VBoy Scouts - BSA
+p875
+sS'@johnnydollar01'
+p876
+Vjohnny dollar
+p877
+sS'@condoleezzarice'
+p878
+VCondoleezza Rice
+p879
+sS'@rasmussennews'
+p880
+VRasmussen News
+p881
+sS'@krauthammer'
+p882
+VCharles Krauthammer
+p883
+sS'@miamiheat'
+p884
+VMiami HEAT
+p885
+sS'@nbcsportsradio'
+p886
+VNBC Sports Radio
+p887
+sS'@johnedwards'
+p888
+VJohn Edwards
+p889
+sS'@1010winsnewyork'
+p890
+V\u0411\u043e\u043d\u0434\u0430\u0440\u0435\u0432 \u041f\u0451\u0442\u0440
+p891
+sS'@rcpvideo'
+p892
+VRCP Video
+p893
+sS'@bendreyfuss'
+p894
+VBen Dreyfuss
+p895
+sS'@radiofreetom'
+p896
+VTom Nichols
+p897
+sS'@trumpturnberry'
+p898
+VTrump Turnberry
+p899
+sS'@blewthebigone'
+p900
+VTrumpTrain
+p901
+sS'@briancraigshow'
+p902
+VBrian Craig
+p903
+sS'@gregabbott_tx'
+p904
+VGreg Abbott
+p905
+sS'@holyselena'
+p906
+VEmily \u2728
+p907
+sS'@realdonaldtrump'
+p908
+VDonald J. Trump
+p909
+sS'@cbssports'
+p910
+VCBS Sports
+p911
+sS'@larry_kudrow'
+p912
+S'Larry Kudlow'
+p913
+sS'@independent_ie'
+p914
+VIndependent.ie
+p915
+sS'@wxyzdetroit'
+p916
+VWXYZ Detroit
+p917
+sS'@urbanturf_dc'
+p918
+VUrbanTurf
+p919
+sS'@americanthinker'
+p920
+VAmerican Thinker
+p921
+sS'@ewerickson'
+p922
+VErick Erickson
+p923
+sS'@michaelwacha'
+p924
+VMichael Wacha
+p925
+sS'@joan'
+p926
+VJoan of Arc
+p927
+sS'@politifact'
+p928
+VPolitiFact
+p929
+sS'@telegraphnews'
+p930
+VTelegraph News
+p931
+sS'@robertundefined'
+p932
+VRobert Cowart
+p933
+sS'@yanicsimard'
+p934
+VYanic Simard - TIDG
+p935
+sS'@espngreeny'
+p936
+VMike Greenberg
+p937
+sS'@natures_voice'
+p938
+VRSPB
+p939
+sS'@dwsweb'
+p940
+VDWSweb.com
+p941
+sS'@wayneroot'
+p942
+VWayne Allyn Root
+p943
+sS'@reuters'
+p944
+VReuters Top News
+p945
+sS'@trumpscotland'
+p946
+VTrump Scotland
+p947
+sS'@royschuhmacher'
+p948
+VRoy Schuhmacher
+p949
+sS'@britishgq'
+p950
+VBritish GQ
+p951
+sS'@theimusshow'
+p952
+VImus in the Morning
+p953
+sS'@itstonybennett'
+p954
+VTony Bennett
+p955
+sS'@andersoncooper'
+p956
+VAnderson Cooper
+p957
+sS'@taylorswift13'
+p958
+VTaylor Swift
+p959
+sS'@golfchannel'
+p960
+VGolf Channel
+p961
+sS'@thetodaysgolfer'
+p962
+VToday's Golfer
+p963
+sS'@newscomauhq'
+p964
+Vnews.com.au
+p965
+sS'@visitscotnews'
+p966
+VVisitScotland News
+p967
+sS'@espngolic'
+p968
+VMike Golic
+p969
+sS'@trumpto'
+p970
+VTrump® Residences TO
+p971
+sS'@trumptoronto'
+p972
+VTrump Toronto Hotel
+p973
+sS'@morning_joe'
+p974
+VMorning Joe
+p975
+sS'@jaycosttws'
+p976
+VJay Cost
+p977
+sS'@berniesanders'
+p978
+VBernie Sanders
+p979
+sS'@hillaryclinton'
+p980
+VHillary Clinton
+p981
+sS'@maraliasson'
+p982
+VMara Liasson
+p983
+sS'@tonylarussa'
+p984
+VTony La Russa
+p985
+sS'@muhammadali'
+p986
+VMuhammad Ali
+p987
+sS'@88pkane'
+p988
+VPatrick Kane
+p989
+sS'@astros'
+p990
+VHouston Astros
+p991
+sS'@snfonnbc'
+p992
+VSNF on NBC
+p993
+sS'@zagat'
+p994
+VZagat
+p995
+sS'@reidepstein'
+p996
+VReid J. Epstein
+p997
+sS'@savagenation'
+p998
+VSavageNation
+p999
+sS'@wsjpolitics'
+p1000
+VCapital Journal
+p1001
+sS'@ppppolls'
+p1002
+VPublicPolicyPolling
+p1003
+sS'@bobvanderplaats'
+p1004
+VBob Vander Plaats
+p1005
+sS'@khloekardashian'
+p1006
+VKhloé
+p1007
+sS'@pgachampionship'
+p1008
+VPGA Championship
+p1009
+sS'@proudlysa'
+p1010
+VProudly SA
+p1011
+sS'@tristenheath'
+p1012
+VTristen Heath
+p1013
+sS'@pennypritzker'
+p1014
+VPenny Pritzker
+p1015
+sS'@ussoccer'
+p1016
+VU.S. Soccer
+p1017
+sS'@christinemmoran'
+p1018
+VChristine
+p1019
+sS'@chm1321'
+p1020
+VChristine
+p1021
+sS'@trscoop'
+p1022
+VRight Scoop
+p1023
+sS'@dariusrucker'
+p1024
+VDarius Rucker
+p1025
+sS'@rexhuppke'
+p1026
+VRex Huppke
+p1027
+sS'@martharaddatz'
+p1028
+VMartha Raddatz
+p1029
+sS'@nhgop'
+p1030
+VNHGOP
+p1031
+sS'@michellemalkin'
+p1032
+VMichelle Malkin
+p1033
+sS'@mygreenhippo'
+p1034
+VNicolas R-V
+p1035
+sS'@pewresearch'
+p1036
+VPew Research Center
+p1037
+sS'@judgenap'
+p1038
+VJudge Napolitano 
+p1039
+sS'@gene70'
+p1040
+VGene
+p1041
+sS'@brianlynch'
+p1042
+VBrian Lynch
+p1043
+sS'@scottmalouff'
+p1044
+VScottMalouff
+p1045
+sS'@andrewbreitbart'
+p1046
+VAndrewBreitbart
+p1047
+sS'@mcleangolf'
+p1048
+VJim McLean Golf
+p1049
+sS'@matthewhawilo'
+p1050
+VM@
+p1051
+sS'@elenadavies'
+p1052
+VElena Davies
+p1053
+sS'@foxnewslatino'
+p1054
+VFox News Latino
+p1055
+sS'@newsmax_media'
+p1056
+VNewsmax
+p1057
+sS'@cnbc'
+p1058
+VCNBC
+p1059
+sS'@mikesington'
+p1060
+VMike Sington
+p1061
+sS'@sarzitron'
+p1062
+VSarah E. Torrent
+p1063
+sS'@kstupples'
+p1064
+VKaren Stupples
+p1065
+sS'@peterose_14'
+p1066
+VPete Rose
+p1067
+sS'@neneleakes'
+p1068
+VNeNe Leakes
+p1069
+sS'@itp_ab'
+p1070
+VArabian Business
+p1071
+sS'@aberdeenshire'
+p1072
+VAberdeenshireCouncil
+p1073
+sS'@repostapp'
+p1074
+VRepost App
+p1075
+sS'@michaeljackson'
+p1076
+S'Michael Jackson'
+p1077
+sS'@leodicaprio'
+p1078
+VLeonardo DiCaprio
+p1079
+sS'@tribecafilmfest'
+p1080
+VTribeca Film Fest
+p1081
+sS'@erictrump'
+p1082
+VEric Trump
+p1083
+sS'@cbs'
+p1084
+VCBS Television
+p1085
+sS'@washtimes'
+p1086
+VThe Washington Times
+p1087
+sS'@johnjharwood'
+p1088
+VJohn Harwood
+p1089
+sS'@rsherman_25'
+p1090
+VRichard Sherman
+p1091
+sS'@danrebellato'
+p1092
+VDan Rebellato
+p1093
+sS'@piersmorgan'
+p1094
+VPiers Morgan
+p1095
+sS'@annromney'
+p1096
+VAnn Romney
+p1097
+sS'@hollywoodlife'
+p1098
+VHollywoodLife
+p1099
+sS'@jlin7'
+p1100
+VJeremy Lin
+p1101
+sS'@bbc'
+p1102
+VBBC
+p1103
+sS'@libertyu'
+p1104
+VLiberty University
+p1105
+sS'@billsupdates'
+p1106
+VBuffalo Bills News
+p1107
+sS'@9news'
+p1108
+V9NEWS Denver
+p1109
+sS'@twtravelnews'
+p1110
+VTravel Weekly
+p1111
+sS'@telemundo'
+p1112
+VTelemundo
+p1113
+sS'@mattbevin'
+p1114
+VMatt Bevin
+p1115
+sS'@stephenathome'
+p1116
+VStephen Colbert
+p1117
+sS'@scotsmandotcom'
+p1118
+Vscotsmandotcom
+p1119
+sS'@nickthompsonpga'
+p1120
+VNicholas Thompson
+p1121
+sS'@mcclatchydc'
+p1122
+VMcClatchyDC
+p1123
+sS'@comedycentral'
+p1124
+VComedy Central
+p1125
+sS'@pgaofamerica'
+p1126
+VPGA of America
+p1127
+sS'@today'
+p1128
+VBeth Shankle
+p1129
+sS'@robertjeffress'
+p1130
+VDr. Robert Jeffress
+p1131
+sS'@hautelivingmag'
+p1132
+VHaute Living
+p1133
+sS'@thecrwire'
+p1134
+VThe @CR Wire
+p1135
+sS'@gretawire'
+p1136
+VGreta Van Susteren
+p1137
+sS'@monikakovacs'
+p1138
+VMONIKA KOVACS
+p1139
+sS'@conmonitornews'
+p1140
+VConcord Monitor News
+p1141
+sS'@sfgate'
+p1142
+VSFGate
+p1143
+sS'@mitt'
+p1144
+S'Mitt Romney'
+p1145
+sS'@nra'
+p1146
+VNRA
+p1147
+sS'@sharkgregnorman'
+p1148
+VGreg Norman
+p1149
+sS'@erinburnett'
+p1150
+VErin Burnett
+p1151
+sS'@juddapatow'
+p1152
+VJudd Apatow
+p1153
+sS'@kellyripa'
+p1154
+VKelly Ripa
+p1155
+sS'@colbertlateshow'
+p1156
+VThe Late Show on CBS
+p1157
+sS'@huffpostgreen'
+p1158
+VHuffPost Green
+p1159
+sS'@thelastrefuge2'
+p1160
+VTheLastRefuge
+p1161
+sS'@limbaugh'
+p1162
+S'Rush Limbaugh'
+p1163
+sS'@obamacare'
+p1164
+VObamacare
+p1165
+sS'@genaleenolin'
+p1166
+VGena Lee Nolin
+p1167
+sS'@noahhoch'
+p1168
+VNoah Hoch
+p1169
+sS'@michelle'
+p1170
+VMichelle Edmonds
+p1171
+sS'@pbs'
+p1172
+VPBS
+p1173
+sS'@craveonline'
+p1174
+VCRAVE
+p1175
+sS'@businessdayng'
+p1176
+VBusinessDay Online
+p1177
+sS'@marlins'
+p1178
+VMiami Marlins
+p1179
+sS'@iowagoper'
+p1180
+VCraig Robinson
+p1181
+sS'@daytradersfx'
+p1182
+VJared Johnson
+p1183
+sS'@belmontuniv'
+p1184
+VBelmont University
+p1185
+sS'@trump_charlotte'
+p1186
+VTrump National CLT
+p1187
+sS'@gappistanradio'
+p1188
+VGappistan Radio
+p1189
+sS'@nh1news'
+p1190
+VNH1 News Network
+p1191
+sS'@espn'
+p1192
+VESPN
+p1193
+sS'@kenyamoore'
+p1194
+VKENYA MOORE
+p1195
+sS'@clayaiken'
+p1196
+VClay Aiken
+p1197
+sS'@latoyajackson'
+p1198
+VLa Toya Jackson
+p1199
+sS'@nbcsnl'
+p1200
+VSaturday Night Live
+p1201
+sS'@chrysler'
+p1202
+VChrysler
+p1203
+sS'@statedept'
+p1204
+VDepartment of State
+p1205
+sS'@dcgovtwit'
+p1206
+VDC Government Twits
+p1207
+sS'@paddyb_ireland'
+p1208
+VPaddy Barnes
+p1209
+sS'@kimguilfoyle'
+p1210
+VKimberly Guilfoyle
+p1211
+sS'@businessinsider'
+p1212
+VBusiness Insider
+p1213
+sS'@abangmercy'
+p1214
+VKhaleesi!!!
+p1215
+sS'@marcthiessen'
+p1216
+VMarc Thiessen
+p1217
+sS'@aidforafrica'
+p1218
+VAid for Africa
+p1219
+sS'@ppdnews'
+p1220
+VPeoples Pundit Daily
+p1221
+sS'@likud_party'
+p1222
+V\u05d4\u05dc\u05d9\u05db\u05d5\u05d3 - Likud Party
+p1223
+sS'@twitter'
+p1224
+VTwitter
+p1225
+sS'@tarahollyfigure'
+p1226
+VTara Hollingsworth
+p1227
+sS'@buzzfeed'
+p1228
+VBuzzFeed
+p1229
+sS'@qvc'
+p1230
+VQVC
+p1231
+sS'@alancolmes'
+p1232
+VAlan Colmes
+p1233
+sS'@trumpgolflinks'
+p1234
+VTrumpGolfScotland
+p1235
+sS'@subirchowdhury'
+p1236
+VSubir Chowdhury
+p1237
+sS'@johnkerry'
+p1238
+VJohn Kerry
+p1239
+sS'@vp'
+p1240
+VVice President Biden
+p1241
+sS'@fehertwit'
+p1242
+VDavid Feherty
+p1243
+sS'@trdny'
+p1244
+VThe Real Deal
+p1245
+sS"@macy's"
+p1246
+S"Macy's"
+p1247
+sS'@newsobserver'
+p1248
+Vnewsobserver.com
+p1249
+sS'@theregister'
+p1250
+VThe Register
+p1251
+sS'@teddyschleifer'
+p1252
+S'Teddy Schleifer'
+p1253
+sS'@officialmcd'
+p1254
+VMichaelClarkeDuncan
+p1255
+sS'@chucktodd'
+p1256
+VChuck Todd
+p1257
+sS'@worldnetdaily'
+p1258
+VWND News
+p1259
+sS'@emiliomasella'
+p1260
+VEmilio Masella
+p1261
+sS'@georgetakei'
+p1262
+VGeorge Takei
+p1263
+sS'@bradpaisley'
+p1264
+VBrad Paisley
+p1265
+sS'@trumplasvegas'
+p1266
+VTrump Vegas Hotel
+p1267
+sS'@destiny'
+p1268
+VLing
+p1269
+sS'@amandatmiller'
+p1270
+VAmanda Miller
+p1271
+sS'@gma'
+p1272
+VGood Morning America
+p1273
+sS'@garysinise'
+p1274
+VGary Sinise
+p1275
+sS'@madeinny'
+p1276
+VMade in NY
+p1277
+sS'@bndarticles'
+p1278
+VBusinessNewsDaily
+p1279
+sS'@podcastone'
+p1280
+VPodcastOne
+p1281
+sS'@luxury'
+p1282
+VBloomberg Pursuits
+p1283
+sS'@jheil'
+p1284
+VJohn Heilemann
+p1285
+sS'@nyrr'
+p1286
+VNewYorkRoadRunners
+p1287
+sS'@gstephanopoulos'
+p1288
+VGeorgeStephanopoulos
+p1289
+sS'@cnnmoney'
+p1290
+VCNNMoney
+p1291
+sS'@floydmayweather'
+p1292
+VFloyd Mayweather
+p1293
+sS'@abcpolitics'
+p1294
+VABC News Politics
+p1295
+sS'@iamstevent'
+p1296
+VSteven Tyler
+p1297
+sS'@bdean1468'
+p1298
+Vb d
+p1299
+sS'@tandcmag'
+p1300
+VTOWN&COUNTRY
+p1301
+sS'@vancouversun'
+p1302
+VThe Vancouver Sun
+p1303
+sS'@teamcavuto'
+p1304
+VNeil Cavuto
+p1305
+sS'@thebig_easy'
+p1306
+VErnie Els
+p1307
+sS'@garyplayer'
+p1308
+VGary Player
+p1309
+sS'@ananavarro'
+p1310
+VAna Navarro
+p1311
+sS'@mcllroyrory'
+p1312
+VRory Mcllroy
+p1313
+sS'@liswiehl'
+p1314
+VLis Wiehl
+p1315
+sS'@michaelsteele'
+p1316
+VMichael Steele
+p1317
+sS'@realjameswoods'
+p1318
+VJames Woods
+p1319
+sS'@nhlbruins'
+p1320
+VBoston Bruins
+p1321
+sS'@benfergusonshow'
+p1322
+VBen Ferguson
+p1323
+sS'@benaffleck'
+p1324
+VBen Affleck
+p1325
+sS'@edshow'
+p1326
+VEd Schultz
+p1327
+sS'@4kmiddlebrook'
+p1328
+VKeith Middlebrook
+p1329
+sS'@history'
+p1330
+VHISTORY
+p1331
+sS'@theslystallone'
+p1332
+VSylvester Stallone
+p1333
+sS'@nyrangers'
+p1334
+VNew York Rangers
+p1335
+sS'@hardball_chris'
+p1336
+VChris Matthews
+p1337
+sS'@katyperry'
+p1338
+VKATY PERRY
+p1339
+sS'@nickjonas'
+p1340
+VNick Jonas
+p1341
+sS'@newsweek'
+p1342
+VNewsweek
+p1343
+sS'@jimmyfallon'
+p1344
+Vjimmy fallon
+p1345
+sS'@scottwalker'
+p1346
+VScott Walker
+p1347
+sS'@uagolf'
+p1348
+VUnder Armour Golf
+p1349
+sS'@unclelouie'
+p1350
+VUncle Louie G
+p1351
+sS'@derekhough'
+p1352
+VDerek Hough
+p1353
+sS'@cnnsotu'
+p1354
+VState of the Union
+p1355
+sS'@ronwhittengd'
+p1356
+VRon Whitten
+p1357
+sS'@chrisstirewalt'
+p1358
+VChris Stirewalt
+p1359
+sS'@bretmichaels'
+p1360
+VBret Michaels
+p1361
+sS'@breitbartsports'
+p1362
+VBreitbart Sports
+p1363
+sS'@megynkelly'
+p1364
+VMegyn Kelly
+p1365
+sS'@mastercard'
+p1366
+VMasterCard 
+p1367
+sS'@juliinkster'
+p1368
+VJuli Inkster
+p1369
+sS'@gallupnews'
+p1370
+VGallupNews
+p1371
+sS'@shawnjohnson'
+p1372
+VShawn Johnson
+p1373
+sS'@andre_reed83'
+p1374
+VAndre Reed
+p1375
+sS'@smerconish'
+p1376
+VMichael Smerconish
+p1377
+sS'@montecristo_mag'
+p1378
+VMONTECRISTO Magazine
+p1379
+sS'@gawker'
+p1380
+VGawker
+p1381
+sS'@cher'
+p1382
+VCher  
+p1383
+sS'@hhshkmohd'
+p1384
+VHH Sheikh Mohammed
+p1385
+sS'@sertamattresses'
+p1386
+VSerta Mattress
+p1387
+sS'@cnbcclosingbell'
+p1388
+VCNBC's Closing Bell
+p1389
+sS'@suntimes'
+p1390
+VChicago Sun-Times
+p1391
+sS'@usatodaysports'
+p1392
+VUSA TODAY Sports
+p1393
+sS'@seanheilweil'
+p1394
+VSean Heilweil
+p1395
+sS'@ap'
+p1396
+VThe Associated Press
+p1397
+sS'@billhemmer'
+p1398
+VBill Hemmer
+p1399
+sS'@jaybags9'
+p1400
+VJonny Andrew
+p1401
+sS'@therock'
+p1402
+VDwayne Johnson
+p1403
+sS'@janeygodley'
+p1404
+VJaney Godley
+p1405
+sS'@elvisduranshow'
+p1406
+VElvis Duran
+p1407
+sS'@nickfaldo006'
+p1408
+VSir Nick Faldo
+p1409
+sS'@brithume'
+p1410
+VBrit Hume
+p1411
+sS'@crocuscityhall'
+p1412
+VCrocus City Hall
+p1413
+sS'@herschelwalker'
+p1414
+VHerschel Walker
+p1415
+sS'@gootecks'
+p1416
+Vgootecks
+p1417
+sS'@votedonaidtrump'
+p1418
+V#TeamTrump
+p1419
+sS'@nypost'
+p1420
+VNew York Post
+p1421
+sS'@donnydeutsch'
+p1422
+VDonny Deutsch
+p1423
+sS'@dannydanon'
+p1424
+S'Danny Dannon'
+p1425
+sS'@nbc6'
+p1426
+VNBC 6 South Florida
+p1427
+sS'@tgowdysc'
+p1428
+VTrey Gowdy
+p1429
+sS'@nationals'
+p1430
+VWashington Nationals
+p1431
+sS'@leebandoni'
+p1432
+VLee Bandoni
+p1433
+sS'@robertgbeckel'
+p1434
+VRobert G Beckel
+p1435
+sS'@newyorkpost'
+p1436
+VNew York Post
+p1437
+sS'@katiepavlich'
+p1438
+VKatie Pavlich
+p1439
+sS'@katieshow'
+p1440
+VKatie 
+p1441
+sS'@todayshow'
+p1442
+VTODAY
+p1443
+sS'@miketyson'
+p1444
+VMike Tyson
+p1445
+sS'@stephenbaldwin'
+p1446
+S'Stephen Baldwin'
+p1447
+sS'@gotham'
+p1448
+VGotham
+p1449
+sS'@bobbyjindal'
+p1450
+VGov. Bobby Jindal
+p1451
+sS'@woodyjohnson4'
+p1452
+VWoody Johnson
+p1453
+sS'@profootballhof'
+p1454
+VPro Football HOF
+p1455
+sS'@josecanseco'
+p1456
+VJose Canseco
+p1457
+sS'@thefive'
+p1458
+VThe Five
+p1459
+sS'@johnsununu'
+p1460
+VJohn E. Sununu
+p1461
+sS'@rodgilbert7'
+p1462
+VRod Gilbert
+p1463
+sS'@macys'
+p1464
+S"Macy's"
+p1465
+sS'@marianorivera'
+p1466
+VRivera Foundation
+p1467
+sS'@nhldevils'
+p1468
+VNew Jersey Devils
+p1469
+sS'@specialreport'
+p1470
+VSpecial Report Team
+p1471
+sS'@chriscuomo'
+p1472
+VChristopher C. Cuomo
+p1473
+sS'@scotparl'
+p1474
+VScottish Parliament
+p1475
+sS'@jassisidhu'
+p1476
+VJassi Sidhu
+p1477
+sS'@_johnhahn'
+p1478
+VJohn Hahn
+p1479
+sS'@reformedbroker'
+p1480
+VDowntown Josh Brown
+p1481
+sS'@buseyfoundation'
+p1482
+VBusey Foundation
+p1483
+sS'@arseniohall'
+p1484
+VArsenio Hall
+p1485
+sS'@oliverbooks'
+p1486
+VLauren Oliver
+p1487
+sS'@dubaiexpo2020'
+p1488
+VDubai Expo 2020
+p1489
+sS'@jorgeramosnews'
+p1490
+VJORGE RAMOS
+p1491
+sS'@walmart'
+p1492
+VWalmart
+p1493
+sS'@therightscoop'
+p1494
+VThe Right Scoop
+p1495
+sS'@steveaustinbsr'
+p1496
+VSteve Austin
+p1497
+sS'@molly_kats'
+p1498
+VMolly
+p1499
+sS'@10ajmccarron'
+p1500
+VAJ McCarron
+p1501
+sS'@byronyork'
+p1502
+VByron York
+p1503
+sS'@realtmfleming'
+p1504
+VT.M.FLEMING\u2122
+p1505
+sS'@colincowherd'
+p1506
+VColin Cowherd
+p1507
+sS'@realdavisbauer'
+p1508
+VDavis Bauer
+p1509
+sS'@itsmemvp'
+p1510
+VManny Pangilinan
+p1511
+sS'@huffpostmedia'
+p1512
+VHuffPost Media
+p1513
+sS'@businessline'
+p1514
+VBusiness Line
+p1515
+sS'@lindseygrahamsc'
+p1516
+VLindsey Graham
+p1517
+sS'@georgefwill'
+p1518
+VGeorge F Will
+p1519
+sS'@drewbrees'
+p1520
+VDrew Brees
+p1521
+sS'@melaniatrump'
+p1522
+VMELANIA TRUMP
+p1523
+sS'@kenny_wallace'
+p1524
+VKenny Wallace
+p1525
+sS'@ryanseacrest'
+p1526
+VRyan Seacrest
+p1527
+sS'@golfdigest'
+p1528
+VGolf Digest
+p1529
+sS'@successmagazine'
+p1530
+VSUCCESS magazine
+p1531
+sS'@tigerwoods'
+p1532
+VTiger Woods
+p1533
+sS'@algore'
+p1534
+VAl Gore
+p1535
+sS'@adamrifkin'
+p1536
+VAdam Rifkin
+p1537
+sS'@adidas'
+p1538
+Vadidas 
+p1539
+sS'@timestribune'
+p1540
+VThe Times-Tribune
+p1541
+sS'@thr'
+p1542
+VHollywood Reporter
+p1543
+sS'@pareene'
+p1544
+Vthe beverage hunk
+p1545
+sS'@tonyfernandes'
+p1546
+VTony Fernandes
+p1547
+sS'@furnituretoday'
+p1548
+VFurniture Today
+p1549
+sS'@jasondolan'
+p1550
+VJason Thomas Dolan
+p1551
+sS'@loudobbsnews'
+p1552
+VLou Dobbs
+p1553
+sS'@pagesix'
+p1554
+VPage Six
+p1555
+sS'@bltprimemiami'
+p1556
+VBLT Prime Miami
+p1557
+sS'@kwwl'
+p1558
+VKWWL
+p1559
+sS'@reaiosmelsousa'
+p1560
+V\u2655 Osmi \u2655
+p1561
+sS'@blvd'
+p1562
+VBlvd
+p1563
+sS'@pgatour'
+p1564
+VPGA TOUR
+p1565
+sS'@billboard'
+p1566
+Vbillboard
+p1567
+sS'@mariofmartinezz'
+p1568
+VTheRealM.F.M.
+p1569
+sS'@marcorubio'
+p1570
+VMarco Rubio
+p1571
+sS'@carl_c_icahn'
+p1572
+VCarl Icahn
+p1573
+sS'@rgiii'
+p1574
+VRobert Griffin III
+p1575
+sS'@themightylayman'
+p1576
+VLayman
+p1577
+sS'@lancearmstrong'
+p1578
+VLance Armstrong
+p1579
+sS'@kathielgifford'
+p1580
+VKathie Lee Gifford
+p1581
+sS'@vote_trump'
+p1582
+VAmerican People
+p1583
+sS'@thescotsman'
+p1584
+VScotsman
+p1585
+sS'@tmz'
+p1586
+VTMZ
+p1587
+sS'@mattginellagc'
+p1588
+VMatt Ginella
+p1589
+sS'@lexi'
+p1590
+VLexi Thompson
+p1591
+sS'@thegarden'
+p1592
+VMSG
+p1593
+sS'@mfbrooklyn'
+p1594
+VMariann F Brooklyn
+p1595
+sS'@gqmagazine'
+p1596
+VGQ Magazine
+p1597
+sS'@cbschicago'
+p1598
+VCBS Chicago
+p1599
+sS'@mariolopezextra'
+p1600
+VMario Lopez
+p1601
+sS'@eliotspitzer'
+p1602
+VEliot Spitzer
+p1603
+sS'@eagles'
+p1604
+VPhiladelphia Eagles
+p1605
+sS'@cnn'
+p1606
+VCNN
+p1607
+sS'@shannonairport'
+p1608
+VShannon Airport
+p1609
+sS'@sigsauerinc'
+p1610
+VSig Sauer
+p1611
+sS'@corybooker'
+p1612
+VCory Booker
+p1613
+sS'@skompa'
+p1614
+VScott Kompa
+p1615
+sS'@bobschieffer'
+p1616
+VBob Schieffer
+p1617
+sS'@schwarzenegger'
+p1618
+VArnold
+p1619
+sS'@joenbc'
+p1620
+VJoe Scarborough
+p1621
+sS'@lawrence'
+p1622
+VLawrence O'Donnell
+p1623
+sS'@greta'
+p1624
+VGreta Van Susteren
+p1625
+sS'@irishtimes'
+p1626
+VThe Irish Times
+p1627
+sS'@foxbusiness'
+p1628
+VFOX Business
+p1629
+sS'@meghanmccain'
+p1630
+VMeghan McCain
+p1631
+sS'@ariannahuff'
+p1632
+VArianna Huffington
+p1633
+sS'@nro'
+p1634
+VNational Review
+p1635
+sS'@montgomeriefdn'
+p1636
+VColin Montgomerie
+p1637
+sS'@fud31'
+p1638
+VFredric U. Dicker
+p1639
+sS'@sunsentinel'
+p1640
+VSun Sentinel
+p1641
+sS'@doryainteriors'
+p1642
+VDorya Interiors
+p1643
+sS'@condenast'
+p1644
+VCondé Nast
+p1645
+sS'@waldorfnyc'
+p1646
+VWaldorf Astoria NY
+p1647
+sS'@govchristie'
+p1648
+VGovernor Christie
+p1649
+sS'@liljon'
+p1650
+VINSTAGRAM LILJON
+p1651
+sS'@ed_klein'
+p1652
+VEdward Klein
+p1653
+sS'@hbo'
+p1654
+VHBO
+p1655
+sS'@futuristichub'
+p1656
+VFuturisticHub
+p1657
+sS'@lolojones'
+p1658
+VLolo Jones
+p1659
+sS'@daily_record'
+p1660
+VThe Daily Record
+p1661
+sS'@alwaleedbint'
+p1662
+VAl-Waleed bin Talal
+p1663
+sS'@ramsaygolf'
+p1664
+VRichie Ramsay
+p1665
+sS'@ericshawnonfox'
+p1666
+VEric Shawn
+p1667
+sS'@capehartj'
+p1668
+VJonathan Capehart
+p1669
+sS'@jonahnro'
+p1670
+VJonah Goldberg
+p1671
+sS'@lakers'
+p1672
+VLos Angeles Lakers
+p1673
+sS'@joniernst'
+p1674
+VJoni Ernst
+p1675
+sS'@dineshdsouza'
+p1676
+VDinesh D'Souza
+p1677
+sS'@kirstenpowers'
+p1678
+VKirsten Powers
+p1679
+sS'@stephenmangan'
+p1680
+VStephen Mangan
+p1681
+sS'@mathemagicianuk'
+p1682
+VSA
+p1683
+sS'@buzzfeedandrew'
+p1684
+VAndrew Kaczynski
+p1685
+sS'@ascottpga'
+p1686
+VAdam Scott
+p1687
+sS'@speakerryan'
+p1688
+VPaul Ryan
+p1689
+sS'@moscowtimes'
+p1690
+VThe Moscow Times
+p1691
+sS'@trumpsoho'
+p1692
+VTrump SoHo
+p1693
+sS'@wjrradio'
+p1694
+VWJR 760am
+p1695
+sS'@zachjohnsonpga'
+p1696
+VZach Johnson
+p1697
+sS'@mets'
+p1698
+VNew York Mets
+p1699
+sS'@jamesfrancotv'
+p1700
+VJames Franco
+p1701
+sS'@djcastiello'
+p1702
+VCastiello
+p1703
+sS'@time'
+p1704
+VTIME.com
+p1705
+sS'@letterman'
+p1706
+VLetterman
+p1707
+sS'@77wabcradio'
+p1708
+V77 WABC Radio
+p1709
+sS'@aol'
+p1710
+VAOL.com
+p1711
+sS'@trumpgolf'
+p1712
+VTrump Golf
+p1713
+sS'@dailybeast'
+p1714
+S'The Daily Beast'
+p1715
+sS'@ralphgilles'
+p1716
+VRalph Gilles
+p1717
+sS'@autism'
+p1718
+VNat Autistic Society
+p1719
+sS'@daschott'
+p1720
+VBrian Schottenstein
+p1721
+sS'@rickklein'
+p1722
+VRick Klein
+p1723
+sS'@politicalticker'
+p1724
+VCNN Political Ticker
+p1725
+sS'@condenastcorp'
+p1726
+VQuick Finances
+p1727
+sS'@ronanofficial'
+p1728
+VRonan Keating
+p1729
+sS'@21club'
+p1730
+V21 Club
+p1731
+sS'@pamelageller'
+p1732
+VPamela Geller
+p1733
+sS'@guyendorekaiser'
+p1734
+VGuy Endore-Kaiser
+p1735
+sS'@politicoroger'
+p1736
+VRoger Simon
+p1737
+sS'@sabrinasiddiqui'
+p1738
+VSabrina Siddiqui
+p1739
+sS'@mulawpoll'
+p1740
+VMULawPoll
+p1741
+sS'@forbesinspector'
+p1742
+VForbes Travel Guide
+p1743
+sS'@huffpostukpol'
+p1744
+VHuffPostUK Politics
+p1745
+sS'@marksteynonline'
+p1746
+VMark Steyn
+p1747
+sS'@aipac'
+p1748
+VAIPAC
+p1749
+sS'@greggutfeldshow'
+p1750
+VGreg Gutfeld Show
+p1751
+sS'@ap_politics'
+p1752
+VAP Politics
+p1753
+sS'@live5news'
+p1754
+VLive5News
+p1755
+sS'@trumpnh'
+p1756
+VDonald Trump NH
+p1757
+sS'@santanacarlos'
+p1758
+VCarlos Santana
+p1759
+sS'@stuartappleby'
+p1760
+VStuart Appleby
+p1761
+sS'@jay_severin'
+p1762
+VJay Severin III
+p1763
+sS'@verizon'
+p1764
+VVerizon
+p1765
+sS'@presssec'
+p1766
+VJosh Earnest
+p1767
+sS'@charlierymergc'
+p1768
+VCharlie Rymer
+p1769
+sS'@billmoyers'
+p1770
+VBill Moyers
+p1771
+sS'@ktumulty'
+p1772
+VKaren Tumulty
+p1773
+sS'@redskins'
+p1774
+VWashington Redskins
+p1775
+sS'@mittromney'
+p1776
+VMitt Romney
+p1777
+sS'@charlescwcooke'
+p1778
+VCharles C. W. Cooke
+p1779
+sS'@whoopigoldberg'
+p1780
+VWhoopi Goldberg
+p1781
+sS'@aaanews'
+p1782
+VAAA
+p1783
+sS'@michaelphelps'
+p1784
+VMichael Phelps
+p1785
+sS'@thulisakanzi'
+p1786
+V#TheRawRush 3-6pm!!!
+p1787
+sS'@leonard'
+p1788
+Vleonardo jose lugo
+p1789
+sS'@detnews'
+p1790
+VDetroitNews
+p1791
+sS'@circa75sydney'
+p1792
+VCIRCA75 Menswear
+p1793
+sS'@tedcruz'
+p1794
+VTed Cruz
+p1795
+sS'@_katherinewebb'
+p1796
+VKatherine McCarron
+p1797
+sS'@cadillac'
+p1798
+VCadillac
+p1799
+sS'@danielpipes'
+p1800
+VDaniel Pipes 
+p1801
+sS'@steverattner'
+p1802
+VSteven Rattner
+p1803
+sS'@sammartinobruno'
+p1804
+VBruno Sammartino
+p1805
+sS'@christiantoday'
+p1806
+VChristian Today
+p1807
+sS'@rupertmurdoch'
+p1808
+VRupert Murdoch 
+p1809
+sS'@alexseeley73'
+p1810
+VAlex Seeley
+p1811
+sS'@billmaher'
+p1812
+VBill Maher
+p1813
+sS'@dateline_keith'
+p1814
+VKeith Morrison
+p1815
+sS'@eveningexpress'
+p1816
+VEvening Express
+p1817
+sS'@rydev22'
+p1818
+VRyan Devlin
+p1819
+sS'@fbipressoffice'
+p1820
+VFBI
+p1821
+sS'@golf_com'
+p1822
+VGOLF.com
+p1823
+sS'@financialpost'
+p1824
+VFinancial Post
+p1825
+sS'@thefix'
+p1826
+VChris Cillizza
+p1827
+sS'@wrestlemania'
+p1828
+VWWE WrestleMania
+p1829
+sS'@ericbolling'
+p1830
+VEric Bolling
+p1831
+sS'@repwolfpress'
+p1832
+VFrank Wolf
+p1833
+sS'@oreillyfactor'
+p1834
+VBill O'Reilly
+p1835
+sS'@kingwoodnews'
+p1836
+VKingwood Observer
+p1837
+sS'@peterose'
+p1838
+VPETER ROSE
+p1839
+sS'@foxsportsgolf'
+p1840
+VFOX SPORTS Golf
+p1841
+sS'@cspanpolitics'
+p1842
+VC-SPAN Politics
+p1843
+sS'@gerriwillisfbn'
+p1844
+VGerri Willis
+p1845
+sS'@mayorbloomberg'
+p1846
+S'Michael Bloomberg'
+p1847
+sS'@saakashvilim'
+p1848
+VMikheil Saakashvili
+p1849
+sS'@stephaniewei'
+p1850
+VStephanie Wei
+p1851
+sS'@globalgolfpost'
+p1852
+VGlobal Golf Post
+p1853
+sS'@bpolitics'
+p1854
+VBloomberg Politics
+p1855
+sS'@jrprotalker'
+p1856
+VJudy  Rankin
+p1857
+sS'@glennbeck'
+p1858
+VGlenn Beck
+p1859
+sS'@simonsam'
+p1860
+VSam Simon
+p1861
+sS'@trumpcasinos'
+p1862
+VTrump Taj Mahal
+p1863
+sS'@reaganworld'
+p1864
+VMichael Reagan
+p1865
+sS'@scottmstringer'
+p1866
+VScott M. Stringer
+p1867
+sS'@mileycyrus'
+p1868
+VMiley Ray Cyrus
+p1869
+sS'@nydailynews'
+p1870
+VNew York Daily News
+p1871
+sS'@showbiztonight'
+p1872
+VShowbiz Tonight 
+p1873
+sS'@frontrowbrian'
+p1874
+VFrontRowBrian®
+p1875
+sS'@crackmacs'
+p1876
+VCrackmacs
+p1877
+sS'@aawsat_eng'
+p1878
+VAsharq Al-Awsat Eng
+p1879
+sS'@paramuspost'
+p1880
+VParamus Post
+p1881
+sS'@davidmaraniss'
+p1882
+Vdavid maraniss
+p1883
+sS'@yayala19'
+p1884
+Vyayala19
+p1885
+sS'@billd111'
+p1886
+VBill Damato
+p1887
+sS'@katrinapierson'
+p1888
+VKatrina Pierson
+p1889
+sS'@wntonight'
+p1890
+VWorld News Tonight
+p1891
+sS'@project_veritas'
+p1892
+VProject Veritas
+p1893
+sS'@joetorre'
+p1894
+VJoe Torre
+p1895
+sS'@la_reid'
+p1896
+VLA Reid
+p1897
+sS'@piersmorganlive'
+p1898
+VPiers Morgan Live
+p1899
+sS'@bostonmarathon'
+p1900
+VBoston Marathon
+p1901
+sS'@stvnews'
+p1902
+VSTV News
+p1903
+sS'@billgates'
+p1904
+VBill Gates
+p1905
+sS'@anthonycl'
+p1906
+VAnthony Fulginiti
+p1907
+sS'@davidletterman'
+p1908
+VDavid Letterman
+p1909
+sS'@kellyandmichael'
+p1910
+VLIVEKellyandMichael
+p1911
+sS'@ajdelgado13'
+p1912
+VAJ Delgado
+p1913
+sS'@thisweekabc'
+p1914
+VThis Week
+p1915
+sS'@whitehouse'
+p1916
+VThe White House
+p1917
+sS'@rollingstone'
+p1918
+VRolling Stone
+p1919
+sS'@rickythebitch'
+p1920
+VCaptain Phasma
+p1921
+sS'@globegazette'
+p1922
+VGlobe Gazette
+p1923
+sS'@anthonyweiner'
+p1924
+VAnthony Weiner
+p1925
+sS'@tonyrobbins'
+p1926
+VTony Robbins
+p1927
+sS'@christianjosi'
+p1928
+VCJ
+p1929
+sS'@pressjournal'
+p1930
+VThe Press & Journal
+p1931
+sS'@zekejmiller'
+p1932
+VZeke Miller
+p1933
+sS'@dallasnews'
+p1934
+VDallas Morning News
+p1935
+sS'@reuterspolitics'
+p1936
+VReuters Politics
+p1937
+sS'@huffpostent'
+p1938
+VHuffPostEnt
+p1939
+sS'@ricksantorum'
+p1940
+VRick Santorum
+p1941
+sS'@paulryanvp'
+p1942
+S'Paul Ryan'
+p1943
+sS'@sentedcruz'
+p1944
+VSenator Ted Cruz
+p1945
+sS'@sharylattkisson'
+p1946
+VSharyl Attkisson
+p1947
+sS'@marksimoneny'
+p1948
+VMARK SIMONE
+p1949
+sS'@australian'
+p1950
+VThe Australian
+p1951
+sS'@megunyc'
+p1952
+VMEGU
+p1953
+sS'@nationalrifle'
+p1954
+VNational Rifle Assoc
+p1955
+sS'@politics_reddit'
+p1956
+VReddit Politics
+p1957
+sS'@ep_capital'
+p1958
+Verik paul
+p1959
+sS'@lordandtaylor'
+p1960
+VLord & Taylor
+p1961
+sS'@jdickerson'
+p1962
+VJohn Dickerson
+p1963
+sS'@editieffiong'
+p1964
+VEditi Effiòng
+p1965
+sS'@giants'
+p1966
+VNew York Giants
+p1967
+sS'@outfrontcnn'
+p1968
+VOutFrontCNN
+p1969
+sS'@late_show'
+p1970
+VLate Show
+p1971
+sS'@secupp'
+p1972
+VS.E. Cupp
+p1973
+sS'@waynenewtonmrlv'
+p1974
+VWayne Newton
+p1975
+sS'@nate_cohn'
+p1976
+VNate Cohn
+p1977
+sS'@argop'
+p1978
+VArkansas GOP
+p1979
+sS'@markadamsbball'
+p1980
+VMark Adams
+p1981
+sS'@bw'
+p1982
+VBusinessweek
+p1983
+sS'@mrjerryoc'
+p1984
+VJerry O'Connell
+p1985
+sS'@ericleebow'
+p1986
+VEric Leebow
+p1987
+sS'@thedailyshow'
+p1988
+VThe Daily Show
+p1989
+sS'@realmisspausa'
+p1990
+VElizabeth Cardillo
+p1991
+sS'@helscahill'
+p1992
+VHels Cahill
+p1993
+sS'@asaadhutchinson'
+p1994
+VAsaad  Hutchinson
+p1995
+sS'@jeangeorges'
+p1996
+VJG Vongerichten
+p1997
+sS'@blairkamin'
+p1998
+VBlair Kamin
+p1999
+sS'@joan_rivers'
+p2000
+VJoan Rivers
+p2001
+sS'@wharton'
+p2002
+VThe Wharton School
+p2003
+sS'@davidaxelrod'
+p2004
+VDavid Axelrod
+p2005
+sS'@robinroberts'
+p2006
+VRobin Roberts
+p2007
+sS'@miamiherald'
+p2008
+VMiami Herald
+p2009
+sS'@randpaul'
+p2010
+VDr. Rand Paul
+p2011
+sS'@cgasparino'
+p2012
+VCharles Gasparino
+p2013
+sS'@mlb'
+p2014
+VMLB
+p2015
+sS'@dalailama'
+p2016
+S'Dalai Lama'
+p2017
+sS'@ericschiffer'
+p2018
+VEric Schiffer
+p2019
+sS'@maxstiegemeier'
+p2020
+VMax Stiegemeier
+p2021
+sS'@foxgottrumped'
+p2022
+VVote Donald J. Trump
+p2023
+sS'@samshahrooz'
+p2024
+Vsonofsam
+p2025
+sS'@deesnider'
+p2026
+VDee Snider
+p2027
+sS'@sheveeta'
+p2028
+VSheveeta Gayles
+p2029
+sS'@olivianuzzi'
+p2030
+VOlivia Nuzzi
+p2031
+sS'@andypettitte'
+p2032
+VAndy Pettitte
+p2033
+sS'@foxandfriends'
+p2034
+VFOX & Friends
+p2035
+sS'@jeremiahwright'
+p2036
+VRev Jeremiah Wright
+p2037
+sS'@realsheriffjoe'
+p2038
+VJoe Arpaio
+p2039
+sS'@therealmarilu'
+p2040
+VMarilu Henner
+p2041
+sS'@geoff_deweaver'
+p2042
+VGeoff De Weaver
+p2043
+sS'@bestphotosever'
+p2044
+V@BestPhotosEver
+p2045
+sS'@zacharyquinto'
+p2046
+S'Zachary Quinto'
+p2047
+sS'@pastorshanewest'
+p2048
+VShane West
+p2049
+sS'@thehill'
+p2050
+VThe Hill
+p2051
+sS'@paulryan'
+p2052
+S'Paul Ryan'
+p2053
+sS'@cbsmiami'
+p2054
+VCBS4 Miami
+p2055
+sS'@nytimes'
+p2056
+VThe New York Times
+p2057
+sS'@marleematlin'
+p2058
+VMarlee Matlin
+p2059
+sS'@dailymirror'
+p2060
+VDaily Mirror
+p2061
+sS'@ritholtz'
+p2062
+VBarry Ritholtz
+p2063
+sS'@fbiboston'
+p2064
+VFBI Boston
+p2065
+sS'@senalexander'
+p2066
+VSen. Lamar Alexander
+p2067
+sS'@realmarkzuck'
+p2068
+VMark Zuckerberg
+p2069
+sS'@markpavelich'
+p2070
+VMark Pavelich
+p2071
+sS'@adamcarolla'
+p2072
+VAdam Carolla
+p2073
+sS'@hilaryclinton'
+p2074
+S'Hillary Clinton'
+p2075
+sS'@lorenzolamas'
+p2076
+VLorenzo Lamas
+p2077
+sS'@uberfacts'
+p2078
+VUberFacts
+p2079
+sS'@rydercup'
+p2080
+VRyder Cup
+p2081
+sS'@morningmika'
+p2082
+VMika Brzezinski
+p2083
+sS'@thedonnasummer'
+p2084
+VDonna Summer
+p2085
+sS'@mclaughlingroup'
+p2086
+VThe McLaughlin Group
+p2087
+sS'@senatorcardin'
+p2088
+VSenator Ben Cardin
+p2089
+sS'@ralphige'
+p2090
+VRalphige prank calls
+p2091
+sS'@dylanbyers'
+p2092
+VDylan Byers
+p2093
+sS'@vattenfallgroup'
+p2094
+VVattenfall Group
+p2095
+sS'@noltenc'
+p2096
+VJohn Nolte
+p2097
+sS'@jayleno'
+p2098
+VJay Leno
+p2099
+sS'@paulwesley'
+p2100
+VPaul Wesley
+p2101
+sS'@balango212'
+p2102
+VGary Carter
+p2103
+sS'@trumpwaikiki'
+p2104
+VTrump Waikiki
+p2105
+sS'@homesbyjeff'
+p2106
+VJeff Black
+p2107
+sS'@bbcnews'
+p2108
+VBBC News (UK)
+p2109
+sS'@zak_bagans'
+p2110
+VZak Bagans
+p2111
+sS'@greggutfeld'
+p2112
+VGregGutfeld
+p2113
+sS'@scotgov'
+p2114
+VScottish Government
+p2115
+sS'@mikebloomberg'
+p2116
+VMike Bloomberg
+p2117
+sS'@andyroddick'
+p2118
+Vandyroddick
+p2119
+sS'@iphoneteam'
+p2120
+VAll iPhone
+p2121
+sS'@tedbishop38pga'
+p2122
+VTed Bishop
+p2123
+sS'@huffpost'
+p2124
+VHuffPost
+p2125
+sS'@pwgavin'
+p2126
+VPatrick W. Gavin
+p2127
+sS'@howardkurtz'
+p2128
+VHowardKurtz
+p2129
+sS'@keemstarx'
+p2130
+VKEEMSTAR
+p2131
+sS'@howardstern'
+p2132
+VHoward Stern
+p2133
+sS'@garyvansickle'
+p2134
+VGary VanSickle
+p2135
+sS'@okcthunder'
+p2136
+VOKC THUNDER
+p2137
+sS'@billclinton'
+p2138
+VBill Clinton
+p2139
+sS'@theeconomist'
+p2140
+VThe Economist
+p2141
+sS'@usatoday'
+p2142
+VUSA TODAY
+p2143
+sS'@trumpnewyork'
+p2144
+VTrump New York 
+p2145
+sS'@postandcourier'
+p2146
+VThe Post and Courier
+p2147
+sS'@baltimoresun'
+p2148
+VThe Baltimore Sun
+p2149
+sS'@danawhite'
+p2150
+VDana White
+p2151
+sS'@univision'
+p2152
+VUnivision
+p2153
+sS'@dennisdmz'
+p2154
+VDennis Miller 
+p2155
+sS'@oann'
+p2156
+VOne America News
+p2157
+sS'@rspbscotland'
+p2158
+VRSPB Scotland
+p2159
+sS'@sinow'
+p2160
+VSports Illustrated
+p2161
+sS'@brooklynnets'
+p2162
+VBrooklyn Nets
+p2163
+sS'@paula_white'
+p2164
+VPaula White
+p2165
+sS'@johnriverstoo'
+p2166
+VJohn Rivers
+p2167
+sS'@ambassadorrice'
+p2168
+VSusan Rice
+p2169
+sS'@michael_favreau'
+p2170
+VSilent Majority 
+p2171
+sS'@facebook'
+p2172
+VFacebook
+p2173
+sS'@wta'
+p2174
+VWTA
+p2175
+sS'@fortunemagazine'
+p2176
+VFortune
+p2177
+sS'@luigiboria'
+p2178
+VLuigi Boria
+p2179
+sS'@macy'
+p2180
+S"Macy's"
+p2181
+sS'@banginbella'
+p2182
+VisaBAElla
+p2183
+sS'@denver_broncos'
+p2184
+VDenver Broncos
+p2185
+sS'@lisarinna'
+p2186
+Vlisa rinna
+p2187
+sS'@eminofficial'
+p2188
+Vemin-music
+p2189
+sS'@rodstewart'
+p2190
+VRod Stewart
+p2191
+sS'@timepolitics'
+p2192
+VTIMEPolitics
+p2193
+sS'@apple'
+p2194
+S'Apple'
+p2195
+sS'@marklevinshow'
+p2196
+VMark R. Levin
+p2197
+sS'@golfweekphotos'
+p2198
+VTracy Wilcox
+p2199
+sS'@housemusictv'
+p2200
+VHOUSE MUSIC TV
+p2201
+sS'@claudiajordan'
+p2202
+VClaudia Jordan
+p2203
+sS'@dannyzucker'
+p2204
+VLeon Mobbs Fangirl!
+p2205
+sS'@gregwallace66'
+p2206
+VGreg Wallace
+p2207
+sS'@michael_0000'
+p2208
+VMichael Canfield
+p2209
+sS'@mmurph'
+p2210
+Vmmurph
+p2211
+sS'@inverurieherald'
+p2212
+VInverurieHeraldNews
+p2213
+sS'@ximenanr'
+p2214
+VXimena Navarrete
+p2215
+sS'@donaldjtrumpjr'
+p2216
+VDonald Trump Jr.
+p2217
+sS'@celebapprentice'
+p2218
+VCelebrity Apprentice
+p2219
+sS'@digitalspy'
+p2220
+VDigital Spy
+p2221
+sS'@felberjosh'
+p2222
+VJosh Felber
+p2223
+sS'@trumpwinery'
+p2224
+VTrump Winery
+p2225
+sS'@cvpayne'
+p2226
+VCharles V Payne
+p2227
+sS'@pennjillette'
+p2228
+VPenn Jillette
+p2229
+sS'@ianjamespoulter'
+p2230
+VIan Poulter
+p2231
+sS'@duncanebradbury'
+p2232
+VDuncan E Bradbury
+p2233
+sS'@huffpostpol'
+p2234
+VHuffPost Politics
+p2235
+sS'@heritage'
+p2236
+VHeritage Foundation
+p2237
+sS'@superbowl'
+p2238
+VSuper Bowl
+p2239
+sS'@allenwest'
+p2240
+VAllen West
+p2241
+sS'@2p2trollcat'
+p2242
+VTroll Cat
+p2243
+sS'@papajohns'
+p2244
+VPapa John's Pizza
+p2245
+sS'@stephenfhayes'
+p2246
+VStephen Hayes
+p2247
+sS'@voxdotcom'
+p2248
+VVox
+p2249
+sS'@ajcalloway'
+p2250
+VAJ Calloway
+p2251
+sS'@alexsalmond'
+p2252
+VAlex Salmond
+p2253
+sS'@dayanamendoza'
+p2254
+VDayana Mendoza
+p2255
+sS'@spacex'
+p2256
+VSpaceX
+p2257
+sS'@discoverycanada'
+p2258
+VDiscovery Canada
+p2259
+sS'@thejuanwilliams'
+p2260
+VJuan Williams
+p2261
+sS'@boeing'
+p2262
+VThe Boeing Company
+p2263
+sS'@madamsuzette'
+p2264
+VMadam Suzette
+p2265
+sS'@brandenroderick'
+p2266
+VBrande Roderick
+p2267
+sS'@travlandleisure'
+p2268
+VTravel and Leisure
+p2269
+sS'@jennymccarthy'
+p2270
+VJenny McCarthy
+p2271
+sS'@fox'
+p2272
+Vfantastic ms.
+p2273
+sS'@kimkotter'
+p2274
+VKim Kötter
+p2275
+sS'@agalarovaras'
+p2276
+V\u0410\u0440\u0430\u0441 \u0410\u0433\u0430\u043b\u0430\u0440\u043e\u0432
+p2277
+sS'@dailycaller'
+p2278
+VThe Daily Caller
+p2279
+sS'@ivankatrump'
+p2280
+VIvanka Trump
+p2281
+sS'@iansomerhalder'
+p2282
+VIan Somerhalder
+p2283
+sS'@qctimes'
+p2284
+VQuad-City Times
+p2285
+sS'@afp'
+p2286
+VAgence France-Presse
+p2287
+sS'@dallascowboys'
+p2288
+VDallas Cowboys
+p2289
+sS'@ingrahamangle'
+p2290
+VLaura Ingraham
+p2291
+sS'@jeep'
+p2292
+VJeep
+p2293
+sS'@debbiegibson'
+p2294
+VDebbie Gibson
+p2295
+sS'@digiphile'
+p2296
+VAlex Howard
+p2297
+sS'@details'
+p2298
+VDETAILS
+p2299
+sS'@ac360'
+p2300
+VAnderson Cooper 360°
+p2301
+sS'@rebeccagberg'
+p2302
+VRebecca Berg
+p2303
+sS'@wcfcourier'
+p2304
+VThe Courier
+p2305
+sS'@genesimmons'
+p2306
+VGene Simmons
+p2307
+sS'@gabrielsherman'
+p2308
+VGabriel Sherman
+p2309
+sS'@anncoulter'
+p2310
+VAnn Coulter
+p2311
+sS'@hulkhogan'
+p2312
+VHulk Hogan
+p2313
+sS'@benjaminsakhai'
+p2314
+VBenjamin Sakhai
+p2315
+sS'@graeme_mcdowell'
+p2316
+VGraeme McDowell
+p2317
+sS'@cbsnewyork'
+p2318
+VCBS New York
+p2319
+sS'@stevesgoddard'
+p2320
+VSteve Goddard
+p2321
+sS'@timesunion'
+p2322
+VTimes Union
+p2323
+sS'@billrancic'
+p2324
+VBill Rancic
+p2325
+sS'@monicacrowley'
+p2326
+VMonica Crowley
+p2327
+sS'@sarahpalinusa'
+p2328
+VSarah Palin
+p2329
+sS'@kilmeade'
+p2330
+VBrian Kilmeade
+p2331
+sS'@rustywallace'
+p2332
+VRusty Wallace
+p2333
+sS'@bristolsblog'
+p2334
+VBristol Palin
+p2335
+sS'@danhenninger'
+p2336
+VDaniel Henninger
+p2337
+sS'@slone'
+p2338
+Vslone
+p2339
+sS'@tomhanks'
+p2340
+VTom Hanks
+p2341
+sS'@teapartyexpress'
+p2342
+VTea Party Express
+p2343
+sS'@bostonpolice'
+p2344
+VBoston Police Dept.
+p2345
+sS'@700club'
+p2346
+VThe 700 Club
+p2347
+sS'@nranews'
+p2348
+VNRA News
+p2349
+sS'@jack_welch'
+p2350
+VJack Welch
+p2351
+sS'@alex_lestari'
+p2352
+VAlex PC 212
+p2353
+sS'@krystalball'
+p2354
+VKrystal Ball
+p2355
+sS'@koneslager'
+p2356
+VKevin Oneslager
+p2357
+sS'@jonathanchait'
+p2358
+VJonathan Chait
+p2359
+sS'@ron_fournier'
+p2360
+VRon Fournier
+p2361
+sS'@cadillacchamp'
+p2362
+VWGC-Cadillac Champ
+p2363
+sS'@sfchronicle'
+p2364
+VThe Chronicle
+p2365
+sS'@gretchencarlson'
+p2366
+VGretchen Carlson
+p2367
+sS'@rjchoppy'
+p2368
+VRJ Choppy
+p2369
+sS'@senatorreid'
+p2370
+VSenator Harry Reid
+p2371
+sS'@stjude'
+p2372
+VSt. Jude
+p2373
+sS'@ppfa'
+p2374
+VPlanned Parenthood
+p2375
+sS'@kingjames'
+p2376
+VLeBron James
+p2377
+sS'@dmregister'
+p2378
+VDes Moines Register
+p2379
+sS'@arabianbusiness'
+p2380
+VArabianBusiness.com
+p2381
+sS'@pollsterpolls'
+p2382
+VHuffPost Pollster
+p2383
+sS'@ammoland'
+p2384
+VAmmoLand
+p2385
+sS'@shanebacon'
+p2386
+VShane Bacon
+p2387
+sS'@cnnpolitics'
+p2388
+VCNN Politics
+p2389
+sS'@wsjvideo'
+p2390
+VWSJ Video
+p2391
+sS'@toure'
+p2392
+VTouré
+p2393
+sS'@jasondufner'
+p2394
+VJason Dufner
+p2395
+sS'@primeministersx'
+p2396
+VPrime Minister SXM
+p2397
+sS'@amdiabetesassn'
+p2398
+VAmer. Diabetes Assn.
+p2399
+sS'@jessebwatters'
+p2400
+VJesse Watters
+p2401
+sS'@geraldorivera'
+p2402
+VGeraldo Rivera
+p2403
+sS'@officialjtw'
+p2404
+VJames Timothy White
+p2405
+sS'@woodmank104'
+p2406
+VWoodman
+p2407
+sS'@danmarino'
+p2408
+VDan Marino
+p2409
+sS'@wor710'
+p2410
+VWOR NewsTalk Radio
+p2411
+sS'@gopthinker'
+p2412
+VTruth Detector
+p2413
+sS'@oliviaculpo'
+p2414
+VOlivia Culpo
+p2415
+sS'@ronwyden'
+p2416
+VRon Wyden
+p2417
+sS'@patriots'
+p2418
+VNew England Patriots
+p2419
+sS'@foxnewsinsider'
+p2420
+VFoxNewsInsider
+p2421
+sS'@thetimes'
+p2422
+VThe Times of London
+p2423
+sS'@danscavino'
+p2424
+VDaniel Scavino Jr.
+p2425
+sS'@michellem'
+p2426
+VMichelle MacPhearson
+p2427
+sS'@markburnetttv'
+p2428
+VMark Burnett
+p2429
+sS'@netflix'
+p2430
+VNetflix US
+p2431
+sS'@baseballhall'
+p2432
+VBaseball Hall
+p2433
+sS'@dloesch'
+p2434
+VDana Loesch
+p2435
+sS'@beyonce'
+p2436
+VBeyoncé Knowles
+p2437
+sS'@abc'
+p2438
+VABC News
+p2439
+sS'@kanikagahlaut'
+p2440
+V\u0915\u0928\u093f\u0915\u093e \u0917\u0939\u0932\u094c\u0924
+p2441
+sS'@twc'
+p2442
+VTime Warner Cable
+p2443
+sS'@andyrichter'
+p2444
+VAndy Richter
+p2445
+sS'@townhallcom'
+p2446
+VTownhall.com
+p2447
+sS'@jerryseinfeld'
+p2448
+VJerry Seinfeld
+p2449
+sS'@giulianarancic'
+p2450
+VGiuliana Rancic
+p2451
+sS'@dukepga'
+p2452
+VKen Duke
+p2453
+sS'@paulwtalk'
+p2454
+VPaul W. Smith
+p2455
+sS'@underarmour'
+p2456
+VUnder Armour
+p2457
+sS'@jerrylawler'
+p2458
+VJerry Lawler
+p2459
+sS'@chubby6665'
+p2460
+Vchubby chandler
+p2461
+sS'@jimharbaugh49'
+p2462
+VJim Harbaugh
+p2463
+sS'@forbes'
+p2464
+VForbes
+p2465
+sS'@sternshow'
+p2466
+VStern Show
+p2467
+sS'@scottpelley'
+p2468
+VScott Pelley
+p2469
+sS'@fs1'
+p2470
+VFS1
+p2471
+sS'@usopengolf'
+p2472
+VU.S. Open (USGA)
+p2473
+sS'@wordpressdotcom'
+p2474
+VWordPress.com
+p2475
+sS'@djpaulyd'
+p2476
+VDJ Pauly D
+p2477
+sS'@bmitchlivecsn'
+p2478
+VBrian Mitchell
+p2479
+sS'@nytimescollins'
+p2480
+VGail Collins
+p2481
+sS'@instapundit'
+p2482
+VInstapundit.com
+p2483
+sS'@miamimagazine'
+p2484
+VMIAMI magazine
+p2485
+sS'@ladygaga'
+p2486
+VThe Countess
+p2487
+sS'@danaperino'
+p2488
+VDana Perino
+p2489
+sS'@trumpgolfdc'
+p2490
+VTrump National DC
+p2491
+sS'@fay'
+p2492
+Vahmad faisal
+p2493
+sS'@buffalobills'
+p2494
+VBuffalo Bills
+p2495
+sS'@rosannascotto'
+p2496
+VRosanna Scotto
+p2497
+sS'@60minutes'
+p2498
+V60 Minutes
+p2499
+sS'@regis'
+p2500
+VRegis Philbin
+p2501
+sS'@trumptowerny'
+p2502
+VTrump Tower New York
+p2503
+sS'@politicomag'
+p2504
+VPOLITICO Magazine
+p2505
+sS'@therealroseanne'
+p2506
+VRoseanne Barr
+p2507
+sS'@hotelierme'
+p2508
+VHotelier Middle East
+p2509
+sS'@axlrose'
+p2510
+S'Axl Rose'
+p2511
+sS'@varneyco'
+p2512
+VVarney & Co. 
+p2513
+sS'@bellanycmag'
+p2514
+VBELLA New York
+p2515
+sS'@trayvonmartin'
+p2516
+VWithOutSanctuary
+p2517
+sS'@wartburgcollege'
+p2518
+VWartburg College
+p2519
+sS'@foxnation'
+p2520
+VFox Nation
+p2521
+sS'@amit_d_r'
+p2522
+VDeemdev
+p2523
+sS'@jasonmattera'
+p2524
+VJason Mattera
+p2525
+sS'@magicjohnson'
+p2526
+VEarvin Magic Johnson
+p2527
+sS'@truth_or_rumor'
+p2528
+VTruth or Rumor
+p2529
+sS'@americanexpress'
+p2530
+VAmerican Express
+p2531
+sS'@ashk'
+p2532
+VAshK
+p2533
+sS'@charlesmblow'
+p2534
+VCharles M. Blow
+p2535
+sS'@lord_sugar'
+p2536
+VLord Sugar
+p2537
+sS'@insidesouthfl'
+p2538
+VInside South FL Show
+p2539
+sS'@dcgovweb'
+p2540
+VDC.Gov
+p2541
+sS'@tvashleigh'
+p2542
+VAshleigh Banfield
+p2543
+sS'@joebiden'
+p2544
+VJoe Biden
+p2545
+sS'@wweraw'
+p2546
+VRAW Wrestling
+p2547
+sS'@keksec_org'
+p2548
+VJason Bergkamp(VG14)
+p2549
+sS'@newengcollege'
+p2550
+VNew England College
+p2551
+sS'@nflonfox'
+p2552
+VFOX Sports: NFL
+p2553
+sS'@frankgaffney'
+p2554
+VFrank Gaffney
+p2555
+sS'@fbi'
+p2556
+VFBI
+p2557
+sS'@cardinaldolan'
+p2558
+VCardinal Dolan
+p2559
+sS'@zak_boxer'
+p2560
+VZak Boxer
+p2561
+sS'@wmur9'
+p2562
+VWMUR TV
+p2563
+sS'@foxnews'
+p2564
+VFox News
+p2565
+sS'@sacha_b_cohen'
+p2566
+VSacha Baron Cohen
+p2567
+sS'@frdunn'
+p2568
+VFr. Robert Dunn
+p2569
+sS'@jennatalackova'
+p2570
+Vjenna talackova
+p2571
+sS'@damacofficial'
+p2572
+VDAMAC Properties
+p2573
+sS'@spikelee'
+p2574
+VSpike Lee
+p2575
+sS'@billoreilly'
+p2576
+S'Bill Oreilly'
+p2577
+sS'@hollyrpeete'
+p2578
+VHolly Robinson Peete
+p2579
+sS'@mark_sanchez'
+p2580
+VMark Sanchez
+p2581
+sS'@christinelu'
+p2582
+VChristine Lu
+p2583
+sS'@nba'
+p2584
+VNBA
+p2585
+sS'@voguemagazine'
+p2586
+VVogue Magazine
+p2587
+sS'@nbc'
+p2588
+VNBC
+p2589
+sS'@joetrippi'
+p2590
+VJoe Trippi
+p2591
+sS'@brentbozell'
+p2592
+VBrent Bozell
+p2593
+sS'@si_peterking'
+p2594
+VPeter King
+p2595
+sS'@nbcnightlynews'
+p2596
+VNBC Nightly News
+p2597
+sS'@redscarebot'
+p2598
+VRobot J. McCarthy
+p2599
+sS'@backontrackusa'
+p2600
+VJoseph
+p2601
+sS'@glennhowerton'
+p2602
+VGlenn Howerton
+p2603
+sS'@wsjsports'
+p2604
+VWSJ Sports
+p2605
+sS'@golfweekmag'
+p2606
+VGolfweek Magazine
+p2607
+sS'@golfworld1'
+p2608
+VGolf World
+p2609
+sS'@pinehurstresort'
+p2610
+VPinehurst Resort
+p2611
+sS'@washingtonpost'
+p2612
+VWashington Post
+p2613
+sS'@trumpintrealty'
+p2614
+VTrump Int'l Realty
+p2615
+sS'@sruhle'
+p2616
+VStephanie Ruhle
+p2617
+sS'@cspan'
+p2618
+VCSPAN
+p2619
+sS'@wrestlinginc'
+p2620
+VWrestlingINC.com
+p2621
+sS'@crainsdetroit'
+p2622
+VCrain's Detroit Biz
+p2623
+sS'@mickyarison'
+p2624
+VMicky Arison
+p2625
+sS'@tmobile'
+p2626
+VT-Mobile
+p2627
+sS'@nikwallenda'
+p2628
+VNik Wallenda
+p2629
+sS'@beyon'
+p2630
+Vbeyon
+p2631
+s.
