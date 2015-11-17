@@ -56,13 +56,12 @@ acronyms or titles, such as "U.S. or Jr.". Added spaces between words and
 punctuation. This step was required for making my model, which treats 
 punctuation as another 'word', and also the sentence construction uses the 
 period as a cue to stop moving forward along the Markov Chain.   
-
-##### All scripts for this step are in the folder dataprocessing/Tweets
+All scripts for this step are in the data_processing/Tweets
 
 ### Debates
 I scraped Times.com and nytimes.com for the transcripts of the four republican 
 debates. These were reasonably clean, and required only step 5 listed above. 
-The script for this is in dataprocessing/Speeches
+The script for this is in data_processing/
 
 ### Speeches and essays
 I downloaded speeches from several different websites, and essays from Trump's 
@@ -82,5 +81,8 @@ sentence and combining with the forward piece gives the complete sentence.
 When the input word in not present in the dictionary, I use word2vec to find the 
 closest word, and return a sentence. 
 
+## Examples
+![Donald plays Golf](https://github.com/araval/trump-bot/blob/master/images/golf.png)
+![Obama](https://github.com/araval/trump-bot/blob/master/images/obama.png)
 
  
