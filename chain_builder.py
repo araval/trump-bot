@@ -8,50 +8,21 @@ tokenizer = nltk.data.load('file:english.pickle')
 with open("stopwords.pkl", "rb") as f:
     stopwords = pickle.load(f)
 
-def text_to_sentences(text):
-    # text is a list of tweets etc 
-    
-    sen_list = []
-    for line in text:
-        if line[0] != '@' and not line.startswith('.@') and not line.startswith('RT') \
-                          and not line.startswith('Via') and not line.startswith('"') :
-        #if not line.startswith('RT') and not line.startswith('Via') and not line.startswith('"') :
-            if len(line.split()) != 0 :
-                lastword = line.split()[-1]
-                if not lastword.startswith('http:'):
+with open('data/Speeches/cleanSpeech.txt') as f:
+    alltweets = f.readlines()
 
-                    line = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', line)
+def tweet_to_sentences(tweet):
+    #takes a tweet and returns a list of "sentences" which 
+    #are in turn a list of words. 
 
-                    if " Donald Trump" or "Trump :" or "realDonaldTrump" not in line:
-                        if '( cont )' not in line:
-                            if 'Watch my' or 'watch my' not in line:
-                                if ('My' or 'my') and 'interview' not in line:
-                                    if 'tonight' or 'Tonight' not in line: 
-                                        if 'via' or 'Via' not in line: 
-                                            sen_list.append(line.strip())
-
-    return sen_list
-
-
-def tweet_to_wordlist(raw_sentence):
-    raw_sentence = BeautifulSoup(raw_sentence).get_text()
-    #letters_only = re.sub("[^a-zA-Z0-9]", " ", raw_sentence)
-    words = raw_sentence.split()
-    return words
-
-def tweet_to_sentences(raw_tweet, tokenizer):
-
-    #Splits into sentences instead of words:
-   
-    raw_tweet = BeautifulSoup(raw_tweet).get_text()    
+    tmpList = []
+    raw_tweet = BeautifulSoup(tweet).get_text()
     raw_sentences = tokenizer.tokenize(raw_tweet.strip())
-    
-    sentences = []
+
     for raw_sentence in raw_sentences:
         if len(raw_sentence) > 0:
-            sentences.append( tweet_to_wordlist(raw_sentence) )
-            
-    return sentences
+            tmpList.append(raw_sentence)
+    return tmpList
 
 
 def make_dictionary(sentences):
@@ -66,7 +37,7 @@ def make_dictionary(sentences):
                     if i == 0:
                         key_to_insert = ('.', sentence[i], sentence[i+1])
                     else:
-                        key_to_insert = (sentence[i-1], sentence[i], sentence[i+1])
+                        key_to_insert=(sentence[i-1],sentence[i],sentence[i+1])
                         
                     if i == N-2:
                         value_to_insert = ('.', '')
@@ -78,7 +49,7 @@ def make_dictionary(sentences):
                     if key_to_insert not in dictionary:
                         dictionary[key_to_insert] = [[value_to_insert, 1]]
                     else: 
-                        list_of_values = [x[0] for x in dictionary[key_to_insert]]
+                        list_of_values=[x[0] for x in dictionary[key_to_insert]]
                         if value_to_insert in list_of_values:
                             index = list_of_values.index(value_to_insert)
                             dictionary[key_to_insert][index][1] += 1
@@ -89,7 +60,8 @@ def make_dictionary(sentences):
 
 
 
-def get_two_words_3(word, dictionary, rev_key = None, gen_keylist = True, randomness = 0):
+def get_two_words_3(word, dictionary, rev_key = None, gen_keylist = True, \
+                      randomness = 0):
     words = []
     
     if gen_keylist:
@@ -140,6 +112,10 @@ def get_two_words_3(word, dictionary, rev_key = None, gen_keylist = True, random
     else:
         return words
 
+
+# For sentence construction, if the input does not contain a word present i
+# in the dictionary, use one of the random sentences below. 
+
 key_not_found_list = []
 key_not_found_list.append("I don't think about ")
 key_not_found_list.append("What?! I don't care about ")
@@ -161,10 +137,16 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
         pp = content
 
     if len(pp) > 0:
-        priority_list = ['hair', 'obama', 'hillary', 'jeb', 'bush', 'war', 'china', 'mexico', 'iran', 'iraq', 'wall',\
-                         'immigration', 'climate', 'ugly', 'tax', 'taxes', 'obamacare', 'president', 'putin', 'palin',\
-                         'golf', 'israel', 'job', 'jobs', 'russia', 'germany', 'india', 'canada', 'snowden', 'romney',\
-                         'think', 'egypt', 'africa', 'oil', 'energy', 'solar', 'wind', 'air', 'gas', 'peace']
+        # When I have an input phrase, I randomly pick a word. However, the 
+        # following words have higher priority:
+        priority_list = ['hair', 'obama', 'hillary', 'jeb', 'bush', 'war', \
+                         'china', 'mexico', 'iran', 'iraq', 'wall',\
+                         'immigration', 'climate', 'ugly', 'tax', 'taxes', \
+                         'obamacare', 'president', 'putin', 'palin',\
+                         'golf', 'israel', 'job', 'jobs', 'russia', 'germany',\
+                         'india', 'canada', 'snowden', 'romney',\
+                         'think', 'gun', 'egypt', 'africa', 'oil', 'energy',\
+                         'solar', 'wind', 'air', 'gas', 'peace']
         found_key = False
         for tmp in pp:
             if tmp.lower() in priority_list:
@@ -179,7 +161,7 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
                         possible_key.append(key)
 
             if len(possible_key) > 0:
-                word = possible_key[np.random.randint( 0, len(possible_key) )][1]
+                word = possible_key[np.random.randint(0,len(possible_key) )][1]
 
 
     following_words, rev_key = get_two_words_3(word, dictionary, randomness = 1) 
@@ -192,9 +174,10 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     final_previous_words = ' '.join(word for word in reversed(previous_words) if word != '.' )
 
     s = final_previous_words + ' ' + word + ' ' + final_following_words
-    
-    s = s.strip()
+   
+    # Following steps make the sentence presentable:
 
+    s = s.strip()
     s = re.sub('@', "", s)
 
     usToken = '7516fd43adaa5e0b8a65a672c39845d2'
@@ -207,12 +190,14 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
     s = re.sub('india', 'India', s)
     s = re.sub('israel', 'Israel', s)
     s = re.sub('scotland', 'Scotland', s)
+    s = re.sub('japan', 'Japan', s)
+    s = re.sub('russia', 'Russia', s)
 
     s = re.sub('\( ', ' (', s)
     s = re.sub('  \)', ')', s)
     s = re.sub(' \)', ')', s)
-    s = re.sub(' ; ', ';', s)
-    s = re.sub(' : ', ':', s)
+    s = re.sub(' ; ', '; ', s)
+    s = re.sub(' : ', ': ', s)
     s = re.sub(' , ', ', ', s)
 
 
@@ -225,9 +210,11 @@ def get_sentence(word, dictionary, rev_dictionary, randomness = 0):
         elif s[-1] == '!':
             s = re.sub(' !', '!', s)
 
-    if s[0] == ",":
+    if s[0] == "," or s[0] == ':' or s[0] == ';':
         s = s[2:]
 
     s = s[0].upper() + s[1:]
+
+    s = ' '.join(s.split()) 
 
     return s

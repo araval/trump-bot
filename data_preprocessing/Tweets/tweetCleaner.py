@@ -44,6 +44,7 @@ with open('complete_tweets.txt', 'w') as f:
 # Now clean the completed tweets:
 for tweet in complete_tweets:
     try:
+        tweet = re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', tweet)
         clean_up_tweet(tweet)
     except UnicodeDecodeError :
         error.append(tweet)

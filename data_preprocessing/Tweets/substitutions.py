@@ -16,6 +16,7 @@ remove_list = ['tonight', 'yesterday', 'today', 'tomorrow','morning', 'thank you
 def deal_with_unicode(line):
 
     line = re.sub('\xe2\x80\x99', "'", line)
+    line = re.sub('\xe2\x80\xa6', "...", line)
     line = re.sub("\xc2\xb4", "'", line)
     line = re.sub('\xe2\x80\x9d', '"', line)
     line = re.sub('\xe2\x80\x94', '-', line)
