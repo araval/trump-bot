@@ -8,9 +8,6 @@ tokenizer = nltk.data.load('file:english.pickle')
 with open("stopwords.pkl", "rb") as f:
     stopwords = pickle.load(f)
 
-with open('data/Speeches/cleanSpeech.txt') as f:
-    alltweets = f.readlines()
-
 def tweet_to_sentences(tweet):
     #takes a tweet and returns a list of "sentences" which 
     #are in turn a list of words. 
