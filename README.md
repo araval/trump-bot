@@ -5,7 +5,7 @@ It utters Trump-like sentences, given a particular word or phrase. When given a 
 word and utters a sentence. Click [here](http://whatwouldtrumpsay.elasticbeanstalk.com/) to play with the app.  
 
 
-## Data Pre-processing:
+## Data Pre-processing
 
 ### Tweets
 
@@ -22,17 +22,18 @@ Tweet Cleaning:
 1. I removed retweets by discarding ones starting with 'RT'. 
 
 2. Usernames: I collected all the users tagged by Trump - these would be words that begin 
-with '@' or '.@' or '"@' or '".@'. 
+with one of '@' or '.@' or '"@' or '".@'. 
 
     I scraped Twitter for the users' real names, number of followers, and the 
     number of people they follow. I then made two lists: a "white list" of 'well-known' 
     users, and a 'throw-out-list' of 'not-so-well-known' users. The white list was 
     determined by the following criterion: 
     
-    if (number of followers)/(number following) > 10
-      add user to white_list 
-    else 
-      add user to throw_out_list
+        if (number of followers)/(number following) > 10
+          add user to white_list 
+        else 
+          add user to throw_out_list
+    
     
     There were present users whose accounts were either deleted or suspended, so 
     I got either a 404 error or an "IndexError" for those users. I added them to 
@@ -44,7 +45,7 @@ with '@' or '.@' or '"@' or '".@'.
     I replaced the white-listed usernames by the real names. 
 
 3. Tweet completion: Twitter has a limit of 140 characters for tweets. Longer 
-tweets end in "(cont) http://link.to.twitlonger". I scraped these tweets 
+tweets end in "(cont) some.link.to.twitlonger". I scraped these tweets 
 from twitlonger.com, and then went through step 2. 
 
 4. From tweets that contained links to websites, I removed the link, and kept
@@ -85,4 +86,6 @@ closest word, and return a sentence.
 ![Donald plays Golf](https://github.com/araval/trump-bot/blob/master/images/golf.png)
 ![Obama](https://github.com/araval/trump-bot/blob/master/images/obama.png)
 
- 
+## Trump's Favorite Words
+Excluding stopwords, these are Trump's most frequently used words. 
+![WordCloud](https://github.com/araval/trump-bot/blob/master/images/wordCloud.png)
