@@ -82,5 +82,8 @@ sentence and combining with the forward piece gives the complete sentence.
 When the input word in not present in the dictionary, I use word2vec to find the 
 closest word, and return a sentence. 
 
+## Examples
+![Donald plays Golf](https://github.com/araval/trump-bot/blob/master/images/golf.png)
+![Obama](https://github.com/araval/trump-bot/blob/master/images/obama.png)
 
  
