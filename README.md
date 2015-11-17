@@ -24,24 +24,24 @@ Tweet Cleaning:
 2. Usernames: I collected all the users tagged by Trump - these would be words that begin 
 with '@' or '.@' or '"@' or '".@'. 
 
-I scraped Twitter for the user's real names, number of followers, and the 
-number of people they follow. I then made two lists: a "white list" of 'well-known' 
-users, and a 'throw-out-list' of 'not-so-well-known' users. The white list was 
-determined by the following criterion: 
-
-if (number of followers)/(number following) > 10
-  add user to white_list 
-else 
-  add user to throw_out_list
-
-There were present users whose accounts were either deleted or suspended, so 
-I got either a 404 error or an "IndexError" for those users. I added them to 
-errorList - and manually inspected the contents. I kept the users, whose names
-I could recognize (such as 'vpbiden' or 'georgeclooney').   
-
-I discarded tweets directed at users not in white list, as they were of 
-a personal nature and uninteresting to anyone else.  
-I replaced the white-listed usernames by the real names. 
+    I scraped Twitter for the users' real names, number of followers, and the 
+    number of people they follow. I then made two lists: a "white list" of 'well-known' 
+    users, and a 'throw-out-list' of 'not-so-well-known' users. The white list was 
+    determined by the following criterion: 
+    
+    if (number of followers)/(number following) > 10
+      add user to white_list 
+    else 
+      add user to throw_out_list
+    
+    There were present users whose accounts were either deleted or suspended, so 
+    I got either a 404 error or an "IndexError" for those users. I added them to 
+    errorList - and manually inspected the contents. I kept the users, whose names
+    I could recognize (such as 'vpbiden' or 'georgeclooney').   
+    
+    I discarded tweets directed at users not in white list, as they were of 
+    a personal nature and uninteresting to anyone else.  
+    I replaced the white-listed usernames by the real names. 
 
 3. Tweet completion: Twitter has a limit of 140 characters for tweets. Longer 
 tweets end in "(cont) http://link.to.twitlonger". I scraped these tweets 
