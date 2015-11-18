@@ -88,7 +88,7 @@ closest word, and return a sentence.
 
 ## Trump's Favorite Words
 Excluding stopwords, these are Trump's most frequently used words:
-![WordCloud](https://github.com/araval/trump-bot/blob/master/images/wordCloud.png)
+![WordCloud](https://github.com/araval/trump-bot/blob/master/images/trump_favorite_words.png)
 
 These are the most frequent words for an 'average US president'. These are the words in 
 speech transcripts of all US presidents as obtained from http://millercenter.org/president/speeches:
