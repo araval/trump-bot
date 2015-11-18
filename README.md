@@ -93,5 +93,4 @@ Excluding stopwords, these are Trump's most frequently used words:
 These are the most frequent words for an 'average US president'. These are the words in 
 speech transcripts of all US presidents as obtained from http://millercenter.org/president/speeches:
 
-![Avg. US president](https://github.com/araval/trump-bot/blob/master/images/average_president_favorite_words.png)
-
+![average US president]:(https://github.com/araval/trump-bot/blob/master/images/avg_president.png)
