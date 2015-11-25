@@ -1,7 +1,7 @@
 # Trump Bot
 
 This is a bot built on Donald Trump’s vocabulary, i.e. text from his tweets, speeches, essays and debates. 
-It utters Trump-like sentences, given a particular word or phrase. It enjoys being on  [twitter](https://twitter.com/surrealTrumpBot). It also has a lonely existence [here](http://whatwouldtrumpsay.elasticbeanstalk.com/).  
+It utters Trump-like sentences, given a particular word or phrase. It enjoys   [tweeting](https://twitter.com/surrealTrumpBot). Mention it in your tweet and it will respond. It also has a lonely existence [here](http://whatwouldtrumpsay.elasticbeanstalk.com/).  
 
 
 ## Data Pre-processing
