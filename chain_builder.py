@@ -4,58 +4,8 @@ from bs4 import BeautifulSoup
 import cPickle as pickle
 import nltk
 
-tokenizer = nltk.data.load('file:english.pickle')
 with open("stopwords.pkl", "rb") as f:
     stopwords = pickle.load(f)
-
-def tweet_to_sentences(tweet):
-    #takes a tweet and returns a list of "sentences" which 
-    #are in turn a list of words. 
-
-    tmpList = []
-    raw_tweet = BeautifulSoup(tweet).get_text()
-    raw_sentences = tokenizer.tokenize(raw_tweet.strip())
-
-    for raw_sentence in raw_sentences:
-        if len(raw_sentence) > 0:
-            tmpList.append(raw_sentence)
-    return tmpList
-
-
-def make_dictionary(sentences):
-    # uses three words as key
-    dictionary = {}
-    for sentence in sentences:
-        sentence.append('.')
-        N = len(sentence)
-        if N > 0:
-            for i, w in enumerate(sentence):
-                if i <= N-2:
-                    if i == 0:
-                        key_to_insert = ('.', sentence[i], sentence[i+1])
-                    else:
-                        key_to_insert=(sentence[i-1],sentence[i],sentence[i+1])
-                        
-                    if i == N-2:
-                        value_to_insert = ('.', '')
-                    elif i == N-3:
-                        value_to_insert = (sentence[i+2], '.')
-                    else:
-                        value_to_insert = (sentence[i+2], sentence[i+3])
-
-                    if key_to_insert not in dictionary:
-                        dictionary[key_to_insert] = [[value_to_insert, 1]]
-                    else: 
-                        list_of_values=[x[0] for x in dictionary[key_to_insert]]
-                        if value_to_insert in list_of_values:
-                            index = list_of_values.index(value_to_insert)
-                            dictionary[key_to_insert][index][1] += 1
-                        else: 
-                            dictionary[key_to_insert].append([value_to_insert, 1])
-                        
-    return dictionary
-
-
 
 def get_two_words_3(word, dictionary, rev_key = None, gen_keylist = True, \
                       randomness = 0):
@@ -108,7 +58,6 @@ def get_two_words_3(word, dictionary, rev_key = None, gen_keylist = True, \
         return words, reversed_key
     else:
         return words
-
 
 # For sentence construction, if the input does not contain a word present i
 # in the dictionary, use one of the random sentences below. 

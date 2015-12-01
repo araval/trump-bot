@@ -43,6 +43,5 @@ def get_statement():
     page = sentence
     return page
     
-
 if __name__ == '__main__':
     application.run()
