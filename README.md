@@ -80,8 +80,16 @@ construct another dictionary, with reversed sentences. Traversing this chain in 
 forward direction gives us the initial sentence in reverse. Reversing this reversed
 sentence and combining with the forward piece gives the complete sentence. 
 
-When the input word in not present in the dictionary, I use word2vec to find the 
-closest word, and return a sentence. 
+The model requires a "seed-word" to generate a sentence. If the input does not 
+contain a word present in the vocabulary, then this model will not be able to generate
+a sentence. To solve this problem, I used word vectors! 
+I downloaded 400,000 50-dimensional pre-trained word vectors from Stanford's NLP 
+project (GloVe), which were trained on Wikipedia and gigaword5. 
+I wrote a C++ program to find 10 most similar words for all 400,000 words. Now, if 
+input does not contain a word in Trump's vocabulary, the model looks for words 
+similar to the input word, which might be present in Trump's vocabulary. If such 
+as word is found, then the model generates a sentence. Otherwise, the model resorts 
+to uttering a sentence from a list of 'canned responses'. 
 
 ## Examples
 ![Donald plays Golf](https://github.com/araval/trump-bot/blob/master/images/golf.png)
