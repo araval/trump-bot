@@ -1,8 +1,7 @@
 # Trump Bot
 
-This is bot built on Donald Trump’s vocabulary, i.e. text from his tweets, speeches, essays and debates. 
-It utters Trump-like sentences, given a particular word or phrase. When given a phrase, it randomly selects a 
-word and utters a sentence. Click [here](http://whatwouldtrumpsay.elasticbeanstalk.com/) to play with the app.  
+This is a bot built on Donald Trump’s vocabulary, i.e. text from his tweets, speeches, essays and debates. 
+It utters Trump-like sentences, given a particular word or phrase. It enjoys   [tweeting](https://twitter.com/surrealTrumpBot). Mention it in your tweet and it will respond. It also has a lonely existence [here](http://whatwouldtrumpsay.elasticbeanstalk.com/).  
 
 
 ## Data Pre-processing
@@ -15,8 +14,9 @@ a long time, and so using greptweet, I was able to get Trump's tweets
 all the way from 2012, which gave me a total of ~18000 tweets. 
 
 I collected tweets from realdonaldtrump.txt to tweetsONLY.txt using awk.
+```
     awk -F '|' '{print $3}' < realdonaldtrump.txt > tweetsONLY.txt
-
+```
 Tweet Cleaning:
 
 1. I removed retweets by discarding ones starting with 'RT'. 
@@ -29,11 +29,12 @@ with one of '@' or '.@' or '"@' or '".@'.
     users, and a 'throw-out-list' of 'not-so-well-known' users. The white list was 
     determined by the following criterion: 
     
-        if (number of followers)/(number following) > 10
-          add user to white_list 
-        else 
-          add user to throw_out_list
-    
+    ```
+    if (number of followers)/(number following) > 10
+      add user to white_list 
+    else 
+      add user to throw_out_list
+    ```
     
     There were present users whose accounts were either deleted or suspended, so 
     I got either a 404 error or an "IndexError" for those users. I added them to 
@@ -87,10 +88,10 @@ closest word, and return a sentence.
 ![Obama](https://github.com/araval/trump-bot/blob/master/images/obama.png)
 
 ## Trump's Favorite Words
-Excluding stopwords, these are Trump's most frequently used words:
-![WordCloud](https://github.com/araval/trump-bot/blob/master/images/trump_favorite_words.png)
+Excluding stopwords, these are Trump's most frequently used words in his speeches and essays. I excluded tweets and interviews so as to be able to compare with the "average US president" (second image, below).
+![Donald Trump's favorite words](https://github.com/araval/trump-bot/blob/master/images/trump_favorite_words_speeches.png)
 
 These are the most frequent words for an 'average US president'. These are the words in 
 speech transcripts of all US presidents as obtained from http://millercenter.org/president/speeches:
 
-![average US president](https://github.com/araval/trump-bot/blob/master/images/avg_president.png)
+![average US president's most used words](https://github.com/araval/trump-bot/blob/master/images/avg_president.png)
