@@ -118,4 +118,4 @@ For comparision, here are the most frequent words for an 'average US president'.
 
 ![average US president's most used words](https://github.com/araval/trump-bot/blob/master/images/avg_president.png)
 
-These are the words in speech transcripts of all US presidents from Washington to Obama (from ![here](http://millercenter.org/president/speeches)).
+These are the words in speech transcripts of all US presidents from Washington to Obama (from ![here](millercenter.org/president/speeches)).
