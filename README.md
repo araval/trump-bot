@@ -119,3 +119,14 @@ For comparision, here are the most frequent words for an 'average US president'.
 ![average US president's most used words](https://github.com/araval/trump-bot/blob/master/images/avg_president.png)
 
 These are the words in speech transcripts of all US presidents from Washington to Obama (from [here](http://millercenter.org/president/speeches)).
+
+The favorite words are definitely very different, but how similar or dissimilar is Trump from other presidents?
+Here's a plot of the cosine similarities between Trump and US presidents arranged by year: 
+![trump vs presidents](https://github.com/araval/trump-bot/blob/master/images/trumps-similarity.png)
+
+
+Here's similarity between different US presidents arranged by the middle of their presidential term: 
+![similarity between presidents](https://github.com/araval/trump-bot/blob/master/images/Similarity-5000-blue.png)
+
+Two clusters emerge, separated roughly by the two World Wars. The similarity between clusters is mainly because of the words in the speeches and not semantics. The politicians of a certain period talk about similar/same issues, although they may have very different stands. To see semantic similarity, one may consider sentiment analysis or document vectors.
+
