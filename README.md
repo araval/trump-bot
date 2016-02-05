@@ -124,7 +124,7 @@ To answer this question, I created 5000 dimensional tf-idf vectors from the pres
 
 Suprisingly, Trump is more similar to Clinton and Obama than to Bush. To compare these similarities with those between US presidents', consider the heatmap below. Darker pixels are more similar than lighter ones. Trump is as similar to Clinton and Obama as Clinton and Obama are to very early presidents. 
 
-![similarity between presidents](https://github.com/araval/trump-bot/blob/master/images/Similarity-5000-blue.png)
+<img src="https://github.com/araval/trump-bot/blob/master/images/Similarity-5000-blue.png" alt = "president similarity" width= "900px">
 
 Interestingly, in the heatmap - two clear clusters emerge, separated roughly by the two World Wars. The similarity between clusters is largely due to the presence of words alone and not semantics. Politicians of a certain period address similar/same issues, even though they may have very different stands. To see semantic (dis)similarity, one may consider using sentiment analysis or document vectors.
 
