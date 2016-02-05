@@ -109,24 +109,23 @@ If none of the similar words are in the vocabulary, then model utters a sentence
 <img src="https://github.com/araval/trump-bot/blob/master/images/obama.png" alt="Obama Apprentice" width = "700px">
 
 ## Trump's Favorite Words
-Excluding stopwords, here are Trump's most frequently used words in his speeches and essays: 
+Excluding stopwords, the figure below shows Trump's most frequently used words in his speeches and essays. I excluded tweets, to be able to compare to US presidents (next figure). 
 
 ![Donald Trump's favorite words](https://github.com/araval/trump-bot/blob/master/images/trump_favorite_words_speeches.png)
 
-
-For comparision, here are the most frequent words for an 'average US president'. 
+Below are the most frequent words for an 'average US president'. These are the words in speech transcripts of all US presidents from Washington to Obama (from [here](http://millercenter.org/president/speeches)).
 
 ![average US president's most used words](https://github.com/araval/trump-bot/blob/master/images/avg_president.png)
 
-These are the words in speech transcripts of all US presidents from Washington to Obama (from [here](http://millercenter.org/president/speeches)).
+The two sets of words are definitely very different, but how similar or dissimilar is Trump from other presidents? 
+To answer this question, I created 5000 dimensional tf-idf vectors from the presidents' speech collection. The total number of words in this collection is greater than 800,000. Using these tf-idf vectors, cosine-similariy between any two presidents, as well as a president and trump can be calculated easily. 
 
-The favorite words are definitely very different, but how similar or dissimilar is Trump from other presidents?
 Here's a plot of the cosine similarities between Trump and US presidents arranged by year: 
 ![trump vs presidents](https://github.com/araval/trump-bot/blob/master/images/trumps-similarity.png)
 
+Suprisingly, Trump is more similar to Clinton and Obama than to Bush. Below is a heatmap depicting similarities between different US presidents arranged by the middle of their presidential term: 
 
-Here's similarity between different US presidents arranged by the middle of their presidential term: 
 ![similarity between presidents](https://github.com/araval/trump-bot/blob/master/images/Similarity-5000-blue.png)
 
-Two clusters emerge, separated roughly by the two World Wars. The similarity between clusters is mainly because of the words in the speeches and not semantics. The politicians of a certain period talk about similar/same issues, although they may have very different stands. To see semantic similarity, one may consider sentiment analysis or document vectors.
+Two clear clusters emerge, separated roughly by the two World Wars. The similarity between clusters is mainly because of the words in the speeches and not semantics. Politicians of a certain period address similar/same issues, although they may have very different stands. To see semantic similarity, one may consider sentiment analysis or document vectors.
 
