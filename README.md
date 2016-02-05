@@ -100,7 +100,7 @@ I downloaded 400,000 50-dimensional pre-trained word vectors from ![Stanford's N
 most similar words for all the 400,000 words. Here's an example of similar words from my program: 
 
 <img src="https://github.com/araval/trump-bot/blob/master/images/words.png" alt="similar words" width = "500px">
-https://github.com/araval/trump-bot/edit/master/README.md#
+
 If none of the similar words are in the vocabulary, then model utters a sentence from a set of canned responses, such as "Don't waste my time. You're fired!". 
 
 ## Examples
