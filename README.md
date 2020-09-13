@@ -1,7 +1,7 @@
 # Trump Bot
 
 This is a bot built on Donald Trump’s vocabulary, i.e. text from his tweets, speeches, essays and debates. 
-It utters Trump-like sentences, given a particular word or phrase. It enjoys   [tweeting](https://twitter.com/surrealTrumpBot). Mention it in your tweet and it will respond. ~~It also has a lonely existence [here](http://whatwouldtrumpsay.elasticbeanstalk.com/).~~ It used to have a lonely existence in some corner of the web for about nine months, that looked like this:
+It utters Trump-like sentences, given a particular word or phrase. ~~It enjoys [tweeting](https://twitter.com/surrealTrumpBot). Mention it in your tweet and it will respond. It also has a lonely existence [here](http://whatwouldtrumpsay.elasticbeanstalk.com/).~~ It used to have a lonely existence in some corner of the web for about nine months, that looked like this:
 <p align="center">
 <img src="https://github.com/araval/trump-bot/blob/master/images/golf.png" alt="Donald plays golf" width = "700px">
 </p>
@@ -139,6 +139,3 @@ Suprisingly, Trump is more similar to Clinton and Obama than to Bush. To compare
 <p align="center">
 <img src="https://github.com/araval/presidents/blob/master/images/Similarity-5000-blue.png" alt = "president similarity" width= "900px">
 </p>
-
-For details on this plot above, see ![presidents.](https://github.com/araval/presidents). 
-
